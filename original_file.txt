@@ -48,6 +48,7 @@
 =670  \\$aDict. of biochemistry and molecular biology.
 =670  \\$aEncyc. of biochemistry.
 =750  \2$aGlycopeptides$5IEN$0(DNLM)D006020
+=750  \2$aGlycopeptides$5IEN$0(DNLM)D006020
 
 =LDR  00745cz  a2200241n  4500
 =001  9880363157802441
