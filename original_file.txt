@@ -31,6 +31,7 @@
 =670  \\$aWork cat.: 94-833: Integrin, 1994.
 =670  \\$aMESH$b(Integrins x Receptors, Cell-Adhesion Protein)
 =750  \2$aIntegrins$5IEN$0(DNLM)D016023
+=750  \2$aIntegrins$5IEN$0(DNLM)D016023
 
 =LDR  00555cz  a2200193n  4500
 =001  9880363157702441
