@@ -14,7 +14,6 @@
 =670  \\$aWork cat.: Home drug infusion therapy under Medicare, 1992.
 =670  \\$aHennepin.
 =750  \2$aHome Infusion Therapy$5IEN$0(DNLM)D018718
-=750  \2$aHome Infusion Therapy$5IEN$0(DNLM)D018712
 
 =LDR  00559cz  a2200193n  4500
 =001  9880363157602441
