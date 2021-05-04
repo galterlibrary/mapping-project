@@ -2,7 +2,7 @@
 
 New MeSH
 A     Liping (Done)
-B-C   Liping
+B     Liping
 E-I   Tony (E-F done)
 
 LCSH updates
