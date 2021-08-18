@@ -9,7 +9,7 @@ E-F   Tony (Done)
 G-I   Tony (Done) 
 J-L   Jamie (Done)
 M-O   Tony (Done)
-P-S   Tony
+P-S   Tony (Done)
 T-Z   Joelen (Done)
 
 LCSH updates
@@ -17,9 +17,9 @@ LCSH updates
 January - Joelen
 February - Liping
 March - 
-April - 
-May - 
-June - 
+April - Tony
+May - Tony
+June - Tony 
 July - 
 August - 
 September - 
