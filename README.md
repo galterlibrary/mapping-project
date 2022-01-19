@@ -31,4 +31,4 @@ Project documentation, including scope limitations, instructions for adding mapp
 
 For a complete description of the project's history, and more details about the authority records, see the article by Tony Olson and Gary Strawn: "Mapping the MeSH and LCSH Systems." Information Technology and Libraries, 16(1) (March 1997) p.5-19.
 
-Please contact [Joelen Pastva](mailto:joelen.pastva@northwestern.edu), head of Collection Management and Metadata Services, with your queries, or if you would like to be added to the project's listserv to stay updated the latest project developments.
+Please contact [Gretchen Neidhardt](mailto:gretchen.neidhardt@northwestern.edu), Metadata and Digital Projects Librarian, with your queries, or if you would like to be added to the project's listserv to stay updated the latest project developments.
