@@ -22,7 +22,37 @@ May - Tony (Done)
 June - Tony (Done) 
 July - Liping (Done)
 August - Joelen (Done)
-September (https://classweb.org/approved-subjects/2009.html) - Gretchen
+September (https://classweb.org/approved-subjects/2009.html) - Gretchen (Done)
 October (https://classweb.org/approved-subjects/2010.html)- Tony (Done)
 November (https://classweb.org/approved-subjects/2011.html) - Galter-Tony
 December (https://classweb.org/approved-subjects/2012.html) - NLM
+
+2021
+
+New MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/meshnew2021.txt)
+#-D
+E-F
+G-I
+J-L
+M-O
+P-S
+T-Z
+
+Revised MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/replace2021.txt)
+
+LCSH updates
+
+January (https://classweb.org/approved-subjects/2101.html)
+February (https://classweb.org/approved-subjects/2102.html)
+March (https://classweb.org/approved-subjects/2103.html)
+April (https://classweb.org/approved-subjects/2104.html)
+May (https://classweb.org/approved-subjects/2105.html)
+June (https://classweb.org/approved-subjects/2106.html)
+June a (https://classweb.org/approved-subjects/2106a.html)
+July (https://classweb.org/approved-subjects/2107.html)
+August (https://classweb.org/approved-subjects/2108.html)
+September (https://classweb.org/approved-subjects/2109.html)
+October (https://classweb.org/approved-subjects/2110.html)
+November (https://classweb.org/approved-subjects/2111.html)
+December (https://classweb.org/approved-subjects/2112.html)
+December a (https://classweb.org/approved-subjects/2112a.html)
