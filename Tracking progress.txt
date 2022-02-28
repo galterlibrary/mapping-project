@@ -38,7 +38,7 @@ M-O
 P-S
 T-Z
 
-Revised MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/replace2021.txt)
+Revised MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/replace2021.txt) - Gretchen
 
 LCSH updates
 
