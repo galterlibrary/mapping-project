@@ -25,7 +25,7 @@ August - Joelen (Done)
 September (https://classweb.org/approved-subjects/2009.html) - Gretchen (Done)
 October (https://classweb.org/approved-subjects/2010.html)- Tony (Done)
 November (https://classweb.org/approved-subjects/2011.html) - Galter-Tony (Done)
-December (https://classweb.org/approved-subjects/2012.html) - NLM
+December (https://classweb.org/approved-subjects/2012.html) - NLM (Done)
 
 2021
 
@@ -36,13 +36,13 @@ G-I
 J-L
 M-O
 P-S
-T-Z
+T-Z - NLM (Sharon)
 
 Revised MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/replace2021.txt) - Gretchen
 
 LCSH updates
 
-January (https://classweb.org/approved-subjects/2101.html)
+January (https://classweb.org/approved-subjects/2101.html) - NLM
 February (https://classweb.org/approved-subjects/2102.html)
 March (https://classweb.org/approved-subjects/2103.html)
 April (https://classweb.org/approved-subjects/2104.html)
