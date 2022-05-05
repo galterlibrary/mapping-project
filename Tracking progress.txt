@@ -30,7 +30,7 @@ December (https://classweb.org/approved-subjects/2012.html) - NLM (Done)
 2021
 
 New MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/meshnew2021.txt)
-#-D
+#-D - Galter (Tony)
 E-F
 G-I
 J-L
