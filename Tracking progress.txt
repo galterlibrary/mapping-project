@@ -1,44 +1,18 @@
 2020
-
-New MeSH
-A     Liping (Done)
-B     Liping (Done)
-C     Joelen (Done)
-D     Liping (Done)
-E-F   Tony (Done)
-G-I   Tony (Done) 
-J-L   Jamie (Done)
-M-O   Tony (Done)
-P-S   Tony (Done)
-T-Z   Joelen (Done)
-
-LCSH updates
-
-January - Joelen (Done)
-February - Liping (Done)
-March - Liping (Done)
-April - Tony (Done)
-May - Tony (Done)
-June - Tony (Done) 
-July - Liping (Done)
-August - Joelen (Done)
-September (https://classweb.org/approved-subjects/2009.html) - Gretchen (Done)
-October (https://classweb.org/approved-subjects/2010.html)- Tony (Done)
-November (https://classweb.org/approved-subjects/2011.html) - Galter-Tony (Done)
-December (https://classweb.org/approved-subjects/2012.html) - NLM (Done)
+New MeSH (Done)
+LCSH updates (Done)
 
 2021
-
 New MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/meshnew2021.txt)
 #-D - Galter (Tony)
-E-F
+E-F - Galter (Gretchen)
 G-I
 J-L
 M-O
 P-S
 T-Z - NLM (Sharon)
 
-Revised MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/replace2021.txt) - Gretchen
+Revised MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/replace2021.txt) - Galter (Gretchen - done)
 
 LCSH updates
 
