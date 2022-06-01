@@ -6,8 +6,8 @@ LCSH updates (Done)
 New MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/meshnew2021.txt)
 #-D - Galter (Tony)
 E-F - Galter (Gretchen - done, with some questions in the Wiki)
-G-I - Galter (Gretchen)
-J-L
+G-I - Galter (Gretchen - done, with some questions in the Wiki)
+J-L - Galter (Gretchen)
 M-O
 P-S
 T-Z - NLM (Sharon)
