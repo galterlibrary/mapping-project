@@ -16,9 +16,9 @@ Revised MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/replace202
 
 LCSH updates
 
-January (https://classweb.org/approved-subjects/2101.html) - NLM (Done)
-February (https://classweb.org/approved-subjects/2102.html) - NLM
-March (https://classweb.org/approved-subjects/2103.html) - NLM
+January (https://classweb.org/approved-subjects/2101.html) - NLM Sharon (Done)
+February (https://classweb.org/approved-subjects/2102.html) - NLM Sharon (Done)
+March (https://classweb.org/approved-subjects/2103.html) - NLM Sharon
 April (https://classweb.org/approved-subjects/2104.html) - NLM
 May (https://classweb.org/approved-subjects/2105.html) - NLM
 June (https://classweb.org/approved-subjects/2106.html) - NLM
