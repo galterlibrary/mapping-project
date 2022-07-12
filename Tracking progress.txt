@@ -10,7 +10,7 @@ G-I - Galter (Gretchen - done, with some questions in Issue #1)
 J-L - Galter (Gretchen - done, with some questions in Issue #1)
 M-O - Galter (Gretchen - done, with some questions in Issue #2)
 P-S - Galter (Gretchen)
-T-Z - NLM (Sharon)
+T-Z - 
 
 Revised MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/replace2021.txt) - Galter (Gretchen - done)
 
@@ -18,7 +18,7 @@ LCSH updates
 
 January (https://classweb.org/approved-subjects/2101.html) - NLM Sharon (Done)
 February (https://classweb.org/approved-subjects/2102.html) - NLM Sharon (Done)
-March (https://classweb.org/approved-subjects/2103.html) - NLM Sharon
+March (https://classweb.org/approved-subjects/2103.html) - NLM Sharon (Done)
 April (https://classweb.org/approved-subjects/2104.html) - NLM Karen
 May (https://classweb.org/approved-subjects/2105.html) - NLM Kasia
 June (https://classweb.org/approved-subjects/2106.html) - NLM Phyllis
