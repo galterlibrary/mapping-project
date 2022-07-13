@@ -9,8 +9,9 @@ E-F - Galter (Gretchen - done, with some questions in Issue #1)
 G-I - Galter (Gretchen - done, with some questions in Issue #1)
 J-L - Galter (Gretchen - done, with some questions in Issue #1)
 M-O - Galter (Gretchen - done, with some questions in Issue #2)
-P-S - Galter (Gretchen)
-T-Z - 
+P-R - Galter (Gretchen)
+S-T - Galter (Lindsey)
+U-Z - Galter (Violet)
 
 Revised MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/replace2021.txt) - Galter (Gretchen - done)
 
