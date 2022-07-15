@@ -35,7 +35,7 @@ December a (https://classweb.org/approved-subjects/2112a.html)- NLM
 
 2022 
 MeSH (generally held for Galter)
-New MeSH (URL for now: https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/newterms/meshnew2022.txt)
+New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/MeSH%202021%20files/MeSH%202021%20NEW)
 #-B
 C-D
 E-H
@@ -43,7 +43,7 @@ I-N
 O-R
 S-Z
 
-Revised MeSH (URL for now: https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/newterms/replace2022.txt) (generally held for Galter)
+Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/MeSH%202021%20files/MeSH%202021%20REPLACE) (generally held for Galter)
 
 LCSH updates (generally held for NLM)
 January (https://classweb.org/approved-subjects/2201.html) - hold to split between Galter folks when LCSH 2021 is finished
