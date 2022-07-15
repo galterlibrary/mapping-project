@@ -32,3 +32,26 @@ November (https://classweb.org/approved-subjects/2111.html)- NLM
 November a (https://classweb.org/approved-subjects/2111b.html)- NLM
 December (https://classweb.org/approved-subjects/2112.html)- NLM
 December a (https://classweb.org/approved-subjects/2112a.html)- NLM
+
+2022 
+MeSH (generally held for Galter)
+New MeSH (URL for now: https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/newterms/meshnew2022.txt)
+#-B
+C-D
+E-H
+I-N
+O-R
+S-Z
+
+Revised MeSH (URL for now: https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/newterms/replace2022.txt) (generally held for Galter)
+
+LCSH updates (generally held for NLM)
+January (https://classweb.org/approved-subjects/2201.html) - hold to split between Galter folks when LCSH 2021 is finished
+February (https://classweb.org/approved-subjects/2202.html)
+March (https://classweb.org/approved-subjects/2203.html)
+April (https://classweb.org/approved-subjects/2204.html)
+May (https://classweb.org/approved-subjects/2205.html)
+June (no list? check back)
+July (no list? check back)
+(August-December pending as of 7/15/21)
+
