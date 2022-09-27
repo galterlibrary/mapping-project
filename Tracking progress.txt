@@ -9,7 +9,7 @@ E-F - Galter (Gretchen - done)
 G-I - Galter (Gretchen - done)
 J-L - Galter (Gretchen - done)
 M-O - Galter (Gretchen - done)
-P-R - Galter (Gretchen - done except for questions in Issue #5)
+P-R - Galter (Gretchen - done)
 S-T - Galter (Lindsey)
 U-Z - Galter (Violet)
 
@@ -26,12 +26,12 @@ June (https://classweb.org/approved-subjects/2106.html) - NLM Phyllis (Done)
 June a (https://classweb.org/approved-subjects/2106a.html) - NLM Liz (Done)
 July (https://classweb.org/approved-subjects/2107.html) - NLM Elizabeth (Done)
 August (https://classweb.org/approved-subjects/2108.html) - NLM Toshu (Done)
-September (https://classweb.org/approved-subjects/2109.html)- NLM Elizabeth
-October (https://classweb.org/approved-subjects/2110.html)- NLM Kasia
-November (https://classweb.org/approved-subjects/2111.html)- NLM Phyllis
-November a (https://classweb.org/approved-subjects/2111b.html)- NLM Karen
-December (https://classweb.org/approved-subjects/2112.html)- NLM Liz
-December a (https://classweb.org/approved-subjects/2112a.html)- NLM Toshu
+September (https://classweb.org/approved-subjects/2109.html)- NLM Elizabeth (Done)
+October (https://classweb.org/approved-subjects/2110.html)- NLM Kasia (Done)
+November (https://classweb.org/approved-subjects/2111.html)- NLM Phyllis (Done)
+November a (https://classweb.org/approved-subjects/2111b.html)- NLM Karen (Done)
+December (https://classweb.org/approved-subjects/2112.html)- NLM Liz (Done)
+December a (https://classweb.org/approved-subjects/2112a.html)- NLM Toshu (Done)
 
 2022 
 MeSH (generally held for Galter)
@@ -43,7 +43,7 @@ I-N
 O-R
 S-Z
 
-Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/MeSH%202021%20files/MeSH%202021%20REPLACE) (generally held for Galter)
+Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/MeSH%202021%20files/MeSH%202021%20REPLACE) - Galter (Gretchen)
 
 LCSH updates (generally held for NLM)
 January (https://classweb.org/approved-subjects/2201.html) - hold to split between Galter folks when LCSH 2021 is finished
@@ -51,7 +51,7 @@ February (https://classweb.org/approved-subjects/2202.html)
 March (https://classweb.org/approved-subjects/2203.html)
 April (https://classweb.org/approved-subjects/2204.html)
 May (https://classweb.org/approved-subjects/2205.html)
-June (no list? check back)
-July (no list? check back)
-(August-December pending as of 7/15/22)
+June (https://classweb.org/approved-subjects/2206.html)
+July (https://classweb.org/approved-subjects/2207.html)
+(August-December pending as of 9/27/22)
 
