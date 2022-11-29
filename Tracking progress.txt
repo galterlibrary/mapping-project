@@ -46,7 +46,7 @@ S-Z
 Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/MeSH%202021%20files/MeSH%202021%20REPLACE) - Galter (Gretchen)
 
 LCSH updates (generally held for NLM)
-January (https://classweb.org/approved-subjects/2201.html) - hold to split between Galter folks when LCSH 2021 is finished
+January (https://classweb.org/approved-subjects/2201.html)
 February (https://classweb.org/approved-subjects/2202.html)
 March (https://classweb.org/approved-subjects/2203.html)
 April (https://classweb.org/approved-subjects/2204.html)
