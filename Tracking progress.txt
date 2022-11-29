@@ -15,23 +15,7 @@ U-Z - Galter (Violet)
 
 Revised MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/replace2021.txt) - Galter (Gretchen - done)
 
-LCSH updates
-
-January (https://classweb.org/approved-subjects/2101.html) - NLM Sharon (Done)
-February (https://classweb.org/approved-subjects/2102.html) - NLM Sharon (Done)
-March (https://classweb.org/approved-subjects/2103.html) - NLM Sharon (Done)
-April (https://classweb.org/approved-subjects/2104.html) - NLM Karen (Done)
-May (https://classweb.org/approved-subjects/2105.html) - NLM Kasia (Done)
-June (https://classweb.org/approved-subjects/2106.html) - NLM Phyllis (Done)
-June a (https://classweb.org/approved-subjects/2106a.html) - NLM Liz (Done)
-July (https://classweb.org/approved-subjects/2107.html) - NLM Elizabeth (Done)
-August (https://classweb.org/approved-subjects/2108.html) - NLM Toshu (Done)
-September (https://classweb.org/approved-subjects/2109.html)- NLM Elizabeth (Done)
-October (https://classweb.org/approved-subjects/2110.html)- NLM Kasia (Done)
-November (https://classweb.org/approved-subjects/2111.html)- NLM Phyllis (Done)
-November a (https://classweb.org/approved-subjects/2111b.html)- NLM Karen (Done)
-December (https://classweb.org/approved-subjects/2112.html)- NLM Liz (Done)
-December a (https://classweb.org/approved-subjects/2112a.html)- NLM Toshu (Done)
+LCSH updates (Done)
 
 2022 
 MeSH (generally held for Galter)
@@ -42,7 +26,6 @@ E-H
 I-N
 O-R
 S-Z
-
 Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/MeSH%202021%20files/MeSH%202021%20REPLACE) - Galter (Gretchen)
 
 LCSH updates (generally held for NLM)
@@ -53,5 +36,6 @@ April (https://classweb.org/approved-subjects/2204.html)
 May (https://classweb.org/approved-subjects/2205.html)
 June (https://classweb.org/approved-subjects/2206.html)
 July (https://classweb.org/approved-subjects/2207.html)
-(August-December pending as of 9/27/22)
+August (https://classweb.org/approved-subjects/2208.html)
+(September-December not published as of 11/29/22)
 
