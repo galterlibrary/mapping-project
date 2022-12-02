@@ -1,0 +1,2920 @@
+Source: https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/newterms/
+
+MH  - Access to Primary Care
+UI  - D000092863
+MN  - N4.590.374.350.250
+MN  - N5.300.430.188
+MS  - The degree to which individuals are inhibited or facilitated in their ability to gain entry to and to receive PRIMARY CARE.
+HN  - 2023
+BX  - Accessibility of Primary Care
+BX  - Accessible Primary Care
+FX  - Primary Health Care
+
+MH  - Acute Aortic Syndrome
+UI  - D000094683
+MN  - C14.907.109.70
+MS  - A group of aortic diseases presented with acute chest pain. It commonly includes AORTIC DISSECTION; AORTIC INTRAMURAL HEMATOMA; PENETRATING ATHEROSCLEROTIC ULCER and sometimes aortic aneurysms.
+HN  - 2023
+
+MH  - African People
+UI  - D000094842
+MN  - M1.686.254
+MS  - People native to or inhabitants of AFRICA.
+HN  - 2023
+BX  - Africans
+
+MH  - Allergic Fungal Sinusitis
+UI  - D000092562
+MN  - C1.150.703.40
+MN  - C1.748.43
+MN  - C1.748.749.134
+MN  - C8.460.692.752.134
+MN  - C8.674.28
+MN  - C8.730.43
+MN  - C8.730.749.134
+MN  - C9.603.692.752.134
+MN  - C20.543.480.680.38
+MS  - Fungal infection in the PARANASAL SINUSES characterized by common allergy respiratory symptoms, recurrent NASAL POLYPS and/or ASTHMA with buildup of allergic MUCIN.
+AN  - coordinate with specific fungal infection
+HN  - 2023
+BX  - Allergic Aspergillus Sinusitis
+BX  - Allergic Fungal Rhinosinusitis
+BX  - Sphenoid Allergic Fungal Sinusitis
+
+MH  - Anabolic Androgenic Steroids
+UI  - D000094343
+MN  - D6.472.334.851.968.250
+MS  - Synthetic, or human-made, variations of the male sex hormone testosterone often misused by athletes to enhance performance.
+HN  - 2023; for ANABOLIC STEROID use TESTOSTERONE CONGENERS 2017-2022
+BX  - Anabolic Androgenic Steroid
+BX  - Anabolic Steroid
+
+MH  - Aneurysm, Aortic Arch
+UI  - D000094626
+MN  - C14.907.55.239.125.250
+MN  - C14.907.109.139.125.250
+MS  - An abnormal balloon- or sac-like dilatation in the wall of the AORTIC ARCH.
+HN  - 2023
+BX  - Aortic Arch Aneurysm
+
+MH  - Aneurysm, Ascending Aorta
+UI  - D000094625
+MN  - C14.907.55.239.125.500
+MN  - C14.907.109.139.125.500
+MS  - An abnormal balloon- or sac-like dilatation in the wall of the ASCENDING AORTA.
+AN  - dissecting aneurysm: coordinate with AORTIC DISSECTION; rupture: coordinate with AORTIC RUPTURE
+HN  - 2023
+BX  - AAA Ascending Aorta Aneurysm
+BX  - Ascending Aorta Aneurysm
+BX  - Ascending Aortic Aneurysm
+
+MH  - Anticoagulation Bridge
+UI  - D000095062
+MN  - E2.134.500
+MS  - A peri-operative bridge therapy procedure in patients with high risk THROMBOEMBOLIC events and the risk of bleeding.
+HN  - 2023
+BX  - Anticoagulation Bridge Therapy
+
+MH  - Antiglycation Agents
+UI  - D000093744
+MN  - D27.505.519.182
+MS  - Compounds that reduce the non-enzymatic glycation of proteins, lipids, and nucleic acids AND thus reducing the formation of ADVANCED GLYCATION END-PRODUCTS.
+HN  - 2023
+BX  - Anti-Advanced Glycation End-Products Agents
+BX  - Anti-Glycant
+BX  - Anti-Glycants
+BX  - Anti-Glycating Agent
+BX  - Anti-Glycating Agents
+BX  - Anti-Glycation Agent
+BX  - Anti-Glycation Agents
+BX  - Anti-Glycative Agent
+BX  - Anti-Glycative Agents
+BX  - Antiglycant
+BX  - Antiglycants
+BX  - Antiglycating Agent
+BX  - Antiglycating Agents
+BX  - Antiglycation Agent
+BX  - Antiglycative Agent
+BX  - Antiglycative Agents
+
+MH  - Antiracism
+UI  - D000095026
+MN  - I1.880.604.473.700.250
+MN  - K1.752.566.479.830.750.250
+MN  - N3.706.437.700.500
+MN  - N5.350.958.750.500
+MS  - Beliefs, actions or intentions, and policies that oppose RACISM or discrimination  based on RACE.
+HN  - 2023
+BX  - Anti-Racism
+FX  - Racism
+
+MH  - Aortic Aneurysm, Thoracoabdominal
+UI  - D000094624
+MN  - C14.907.55.239.75.500
+MN  - C14.907.109.139.75.500
+MS  - An abnormal balloon- or sac-like dilatation in the wall of ABDOMINAL AORTA at the aortic hiatus.
+AN  - dissecting aneurysm: coordinate with AORTIC DISSECTION; rupture: coordinate with AORTIC RUPTURE
+HN  - 2023; use AORTIC ANEURYSM, THORACIC 2008-2022
+BX  - TAA Thoracoabdominal Aortic Aneurysm
+
+MH  - Aortic Intramural Hematoma
+UI  - D000094666
+MN  - C14.907.109.70.625
+MN  - C23.550.414.838.175
+MS  - An atypical form of AORTIC DISSECTION in which subintimal dissection of the aortic TUNICA MEDIA without initial laceration of the aortic TUNICA INTIMA. It may begin from a rupture of the VASA VASORUM feeding aortic media.
+HN  - 2023
+BX  - Intramural Hematoma Aorta
+
+MH  - Aortic Root Aneurysm
+UI  - D000094628
+MN  - C14.907.55.239.125.375
+MN  - C14.907.109.139.125.375
+MS  - An abnormal balloon- or sac-like dilatation in the wall of the AORTIC ROOT.
+AN  - dissecting aneurysm: coordinate with AORTIC DISSECTION; rupture: coordinate with AORTIC RUPTURE
+HN  - 2023
+BX  - Aneurysm, Aortic Root
+
+MH  - Apical Hypertrophic Cardiomyopathy
+UI  - D000092183
+MN  - C14.280.195.400.500
+MN  - C14.280.238.100.250
+MS  - A hypertrophic cardiomyopathy characterized by apical hypertrophy, typically LEFT VENTRICULAR HYPERTROPHY (described as "ace of spades" sign), and deep T-wave inversions in EKG. Clinical symptoms include minor symptoms such as CHEST PAIN; DYSPNEA; and SYNCOPE to more complex symptoms such as ATRIAL FIBRILLATION; VENTRICULAR FIBRILLATION; MYOCARDIAL INFARCTION and CONGESTIVE HEART FAILURE. A transient left ventricular apical hypertrophy is sometimes associated with TAKOTSUBO CARDIOMYOPATHY.
+HN  - 2023
+BX  - Apical-Variant HCM
+BX  - Left Ventricular Apical Hypertrophic Cardiomyopathy
+
+MH  - Artificial Life
+UI  - D000092003
+MN  - H1.158.273.904.500
+MN  - H1.770.644.81
+MS  - Research involving the synthesis of life and life-like phenomena and the application of such techniques toward the enhancement of our theoretical understanding of life and life-like phenomena, studied through the use of computer programs.
+HN  - 2023
+
+MH  - Asia, Southern
+UI  - D000095143
+MN  - Z1.252.245.782
+MS  - The geographical designation for the countries of AFGHANISTAN; BANGLADESH; BHUTAN; INDIA; MALDIVES; NEPAL; PAKISTAN; and SRI LANKA.
+HN  - 2023(1983); for BRITISH INDIAN OCEAN TERRITORY use AFRICA, EASTERN 1983-2022
+BX  - Asia, South
+BX  - South Asia
+
+MH  - Asian American Native Hawaiian and Pacific Islander
+UI  - D000094202
+MN  - M1.270.906
+MS  - Members of Asian American, Native Hawaiian, and Pacific Islander community.
+HN  - 2023
+BX  - AANHPI
+BX  - Asian American Pacific Islander
+BX  - Asian Americans Pacific Islanders
+
+MH  - Australasian People
+UI  - D000094861
+MN  - M1.686.493.500
+MS  - People native to or inhabitants of AUSTRALASIA including AUSTRALIA and NEW ZEALAND.
+HN  - 2023
+BX  - Australasians
+
+MH  - Axl Receptor Tyrosine Kinase
+UI  - D000094963
+MN  - D8.811.913.696.620.682.725.400.975
+MN  - D12.776.476.568.400.975
+MN  - D12.776.543.750.630.875
+MN  - D12.776.624.664.700.13
+MS  - A member of the Tyro3-Axl-Mer (TAM) RECEPTOR PROTEIN-TYROSINE KINASES subfamily. Involved in several cellular functions including growth, migration, cell aggregation, and anti-inflammation.
+HN  - 2023 (1999)
+
+MH  - beta-D-Galactoside alpha 2-6-Sialyltransferase
+UI  - D000094802
+MN  - D8.811.913.400.800.250
+MS  - Sialyltransferases that catalyze the transfer of N-ACETYLNEURAMINIC ACID from CYTIDINE MONOPHOSPHATE N-ACETYLNEURAMINIC ACID to the 6-OH of the GALACTOSE residue of N-GLYCANS.
+HN  - 2023
+BX  - alpha 2-6-Sialyltransferase
+BX  - alpha2,6(N) Sialyltransferase
+BX  - alpha6-Sialyltransferase
+BX  - beta-D-Galactoside alpha-2-6-Sialyltransferase
+BX  - beta-Galactoside alpha2,6-Sialyltransferase
+BX  - beta-Galactosyl(1-4)N-Acetylglucosaminide alpha(2-6)-Sialyltransferase
+BX  - CMP-Acetylneuraminate Galactoside (alpha 2-6)-Sialyltransferase
+BX  - CMP-N-Acetylneuraminate-beta-Galactoside alpha-2,6-Sialyltransferase
+BX  - CMP-N-Acetylneuraminate-Galactosylglycoprotein Sialyltransferase ST6GAL
+BX  - CMP-N-Acetylneuraminic Acid-Lactose Sialytransferase
+BX  - CMP-NeuAc-Galactoside (alpha 2-6)-Sialyltransferase
+BX  - CMP-Sialic Acid-N-Acetyllactosaminide alpha (2-6)-Sialyltransferase
+BX  - Gal-1-4-GlcNAc alpha(2-6)-Sialyltransferase
+
+MH  - beta-Galactoside alpha-2,3-Sialyltransferase
+UI  - D000094663
+MN  - D8.811.913.400.800.500
+MS  - Sialyltransferases that catalyze the transfer of N-ACETYLNEURAMINIC ACID from CYTIDINE MONOPHOSPHATE N-ACETYLNEURAMINIC ACID to the 3-OH of the GALACTOSE residue of N-GLYCANS.
+HN  - 2023
+BX  - alpha 2-3-Sialyltransferase
+BX  - Asialofetuin Sialyltransferase
+BX  - beta-D-Galactoside 3-alpha-Sialyltransferase
+BX  - CMP N-Acetylneuraminate-beta-Galactoside alpha-2,3-Sialyltransferase
+BX  - CMP-Acetylneuraminate-Galactoside (alpha 2-3)-Sialyltransferase
+BX  - CMP-ANGS-Transferase
+BX  - CMP-Neu5Ac-GAl beta1-3GalNAc alpha-2,3-Sialyltransferase
+BX  - CMP-Neu5Ac-Gal1-3GalNAc alpha-2,3-Sialyltransferase
+BX  - CMP-NeuAc-Galactoside (alpha 2-3)-Sialyltransferase
+BX  - CMPSialic Acid beta-Galactosyl-1-3-N-Acetylgalactosaminide alpha 2-3-Sialyltransferase
+BX  - Gal beta1,3GalNAc alpha2,3-Sialyltransferase
+
+MH  - Betulinic Acid
+UI  - D000094062
+MN  - D2.455.849.919.530.600.500
+MS  - A lupane-type triterpene derivative of betulin which was originally isolated from BETULA or birch tree. It has anti-inflammatory, anti-HIV and antineoplastic activities.
+HN  - 2023
+BX  - 3-Epi-betulinic Acid
+BX  - 3-Hydroxy-lup-20(29)-en-28-oic Acid
+BX  - 3-Hydroxylup-20(29)-en-28-oic Acid
+BX  - Betulic Acid
+
+MH  - Bicornuate Uterus
+UI  - D000093663
+MN  - C12.50.351.500.852.667.250
+MS  - A congenital uterine anomaly in which the UTERUS is divided into two uterine horns with a significant cleft at the uterine fundus due to partial fusion of the MULLERIAN DUCTS. Bicornuate uterus is sometimes associated with a longitudinal vaginal septum and abnormal development of renal tracts.
+HN  - 2023
+BX  - Bicornuate Bicollis
+BX  - Bicornuate Bicollis Uterus
+BX  - Bicornuate Unicollis
+BX  - Bicornuate Unicollis Uterus
+BX  - Double Uterus and Longitudinal Vaginal Septum
+
+MH  - Blood Banking
+UI  - D000094902
+MN  - E2.792.833.230.250
+MN  - E5.760.833.230.250
+MN  - N2.421.911.50
+MS  - The administrative procedures and methods required for collecting, characterizing and storing blood or plasma in BLOOD BANKS.
+HN  - 2023; use BLOOD BANKS 1966-2022
+FX  - Blood Banks
+FX  - Blood Donation
+FX  - Blood Preservation
+FX  - Hematologic Tests
+
+MH  - Blood Donation
+UI  - D000094345
+MN  - N2.421.911.100
+MS  - Voluntary giving of BLOOD.
+HN  - 2023; use BLOOD DONORS 1978-2022
+BX  - Blood Donating
+BX  - Plasma Donation
+BX  - Platelet Donation
+FX  - Blood Banks
+FX  - Blood Donors
+FX  - Phlebotomy
+FX  - Plasmapheresis
+FX  - Plateletpheresis
+
+MH  - Breakthrough Infections
+UI  - D000093742
+MN  - C1.175
+MN  - C23.550.291.219
+MS  - Infections by the same infectious agent (e.g., virus, fungus) occurring during exposure to prophylaxis, vaccine and treatment.
+HN  - 2023
+BX  - Treatment Emergent Infections
+BX  - Vaccine Breakthrough Infections
+
+MH  - Bridge Therapy
+UI  - D000093142
+MN  - E2.134
+MS  - Treatment used in a transition between former and new therapeutic regimes.
+HN  - 2023
+
+MH  - Bromodomain Containing Proteins
+UI  - D000092468
+MN  - D12.776.660.235.25
+MN  - D12.776.664.235.25
+MN  - D12.776.930.900.100
+MS  - Non-histone chromosomal proteins that regulate GENE EXPRESSION through a variety of mechanisms including recognizing acetylated HISTONE LYSINE residues and through transcriptional machinery regulation.
+HN  - 2023 (2001)
+BX  - BRDs Containing Protein
+BX  - Bromodomain-Containing Proteins
+
+MH  - Bronchiolitis Obliterans Syndrome
+UI  - D000092122
+MN  - C8.127.446.135.140.600.500
+MN  - C8.381.495.146.135.140.600.500
+MN  - C20.452.500
+MS  - Bronchiolitis obliterans complication from allogenic HEMATOPOIETIC STEM CELL TRANSPLANTATION and LUNG TRANSPLANTATION.
+HN  - 2023
+BX  - BOS Bronchiolitis Obliterans Syndrome
+BX  - Chronic Graft-Versus-Host Disease
+BX  - Obstructive Chronic Lung Allograft Dysfunction
+BX  - Obstructive CLAD
+
+MH  - Calcinosis Cutis
+UI  - D000092182
+MN  - C17.800.113
+MN  - C18.452.174.130.93
+MS  - Pathological deposition of calcium in the skin and subcutaneous tissue. Excessive calcification of the skin may be associated with underlying diseases that cause tissue damage (e.g., EHLERS-DANLOSÂ SYNDROME; PSEUDOXANTHOMA ELASTICUM; ROTHMUND-THOMSON SYNDROME; and WERNER SYNDROME) or that cause abnormal calcium and phosphate metabolism (e.g., CALCIPHYLAXIS; CHRONICÂ KIDNEYÂ FAILURE; HYPERPARATHYROIDISM; and SARCOIDOSIS).
+HN  - 2023
+BX  - Cutaneous Calcification
+BX  - Dystrophic Calcinosis Cutis
+BX  - Iatrogenic Calcinosis Cutis
+BX  - Idiopathic Calcinosis Cutis
+BX  - Metastatic Calcinosis Cutis
+
+MH  - Capillary Isoelectric Focusing
+UI  - D000094542
+MN  - E5.196.401.663.500
+MN  - E5.301.300.663.250
+MS  - Isoelectric focusing in capillary gels instead of slab gels. Capillary gel electrophoresis generally allows higher resolution, higher detection sensitivity and easier integration with other separation and detection techniques.
+HN  - 2023
+BX  - CIEF Capillary Isoelectric Focusing
+BX  - iCIEF
+BX  - Imaged Capillary Isoelectric Focusing
+
+MH  - Carbohydrate Binding Modules
+UI  - D000094342
+MN  - G2.111.570.820.709.275.750.157
+MS  - Contiguous amino acid sequences within a carbohydrate-active enzyme with discrete folds having carbohydrate binding activity. They are classified into 43 different families based on AMINO ACID SEQUENCE, binding specificity, and structure.
+HN  - 2023
+BX  - Carbohydrate Binding Module
+BX  - Cellulose Bnding Domain
+BX  - Chitin Binding Domain
+BX  - Xylan Binding Domain
+
+MH  - Caribbean People
+UI  - D000094859
+MN  - M1.686.413
+MS  - People native to or inhabitants of islands in the Caribbean Sea or CARIBBEAN including ANTIGUA AND BARBUDA; ARUBA; BAHAMAS; BARBADOS; BRITISH VIRGIN ISLANDS; CARIBBEAN NETHERLANDS; CUBA; CURACAO; DOMINICA; DOMINICAN REPUBLIC; GRENADA; GUADELOUPE; HAITI; JAMAICA; MARTINIQUE; PUERTO RICO; SAINT KITTS AND NEVIS; SAINT LUCIA; SAINT VINCENT AND THE GRENADINES; SINT MAARTEN; TRINIDAD AND TOBAGO; and UNITED STATES VIRGIN ISLANDS.
+HN  - 2023
+BX  - Caribbeans
+BX  - West Indian People
+
+MH  - Case Reports as Topic
+UI  - D000094143
+MN  - L1.559.423.906.654.500
+MS  - Clinical presentations that may be followed by evaluative studies that eventually lead to a diagnosis.
+HN  - 2023
+
+MH  - Central African People
+UI  - D000094845
+MN  - M1.686.254.750.500
+MS  - People native to or inhabitants of the CENTRAL AFRICA including CAMEROON; CENTRAL AFRICAN REPUBLIC; CHAD; CONGO; DEMOCRATIC REPUBLIC OF THE CONGO; EQUATORIAL GUINEA; GABON; and SAO TOME AND PRINCIPE. It includes indigenous peoples in the Congo Basin. Sometimes people native or inhabitants of the country of Central African Republic are referred to as Central Africans.
+HN  - 2023
+BX  - Central African Person
+BX  - Central Africans
+BX  - Middle African People
+BX  - Middle African Person
+BX  - Middle Africans
+
+MH  - Central American People
+UI  - D000094866
+MN  - M1.686.429
+MS  - People native to or inhabitants of CENTRAL AMERICA including BELIZE; COSTA RICA; EL SALVADOR; GUATEMALA; HONDURAS; NICARAGUA; and PANAMA.
+HN  - 2023
+BX  - Central American Person
+BX  - Central Americans
+
+MH  - Central Asian People
+UI  - D000094850
+MN  - M1.686.330.375
+MS  - People native to or inhabitants of CENTRAL ASIA including KAZAKHSTAN; KYRGYZSTAN; TAJIKISTAN; TURKMENISTAN and UZBEKISTAN.
+HN  - 2023
+BX  - Central Asian Person
+BX  - Central Asians
+
+MH  - Chronic Inducible Urticaria
+UI  - D000094482
+MN  - C17.800.862.945.533.500
+MN  - C20.543.480.904.533.500
+MN  - C23.550.291.500.360.500
+MS  - Chronic urticaria with identified triggering factor which is either physical, e.g., vibratory urticaria, or non-physical, e.g., aquagenic urticaria.
+HN  - 2023; use CHRONIC URTICARIA 2020-2022, for URTICARIA, AQUAGENIC use under UTTICARIA 2013-2022
+BX  - Aquagenic Urticaria
+BX  - CIndU
+BX  - Urticaria, Vibratory
+BX  - Vibratory Urticaria
+
+MH  - Chronic Kidney Diseases of Uncertain Etiology
+UI  - D000092702
+MN  - C12.50.351.968.419.780.750.250
+MN  - C12.200.777.419.780.750.250
+MN  - C12.950.419.780.750.250
+MN  - C23.550.291.500.906.250
+MN  - C24.80.183
+MS  - Chronic kidney diseases not associated with traditional RISK FACTORS, e.g., TYPE 2 DIABETES MELLITUS and HYPERTENSION, but rather with infectious diseases, exposure to environmental toxins, or other unknown factors. They are most prevalent in agricultural communities of DEVELOPING COUNTRIES.
+HN  - 2023
+BX  - Chronic Interstitial Nephritis of Agricultural Communities
+BX  - Chronic Kidney Disease of Nontraditional Etiology
+BX  - Chronic Kidney Disease of Uncertain Etiology
+BX  - Chronic Kidney Disease of Unknown Etiology
+BX  - Chronic Kidney Disease of Unknown or Uncertain Etiology
+BX  - CINAC
+BX  - CINAC Chronic Interstitial Nephritis in Agricultural Communities
+BX  - CKD of Uncertain Etiology
+BX  - CKDu Chronic Kidney Disease of Uncertain Etiology
+BX  - CKDu Chronic Kidney Disease of Unknown Etiology
+BX  - CKDu Chronic Kidney Diseases of Uncertain Etiology
+BX  - KDUCAL
+BX  - Kidney Disease of Unknown Cause in Agricultural Laborers
+BX  - Mesoamerican Nephropathy
+
+MH  - Chronotype
+UI  - D000094407
+MN  - F1.752.227
+MN  - G7.180.562.190.500
+MS  - The natural inclination or preference of time of day in which an individual or an organism has the most activity, particularly as it relates to sleeping pattern and circadian sleep-wake preferences.
+HN  - 2023
+BX  - Morningness Eveningness Preferences
+
+MH  - Clinical Relevance
+UI  - D000092522
+MN  - E1.55.500.500
+MN  - N4.761.559.590.399.125
+MN  - N5.715.360.575.575.399.125
+MS  - Criteria to determine whether a finding (e.g., clinical examination, lab test, imaging results) requires a medical intervention for meaningful improvement in outcome often to avoid OVERDIAGNOSIS and/or OVERTREATMENT.
+HN  - 2023
+BX  - Clinical Importance
+BX  - Clinical Significance
+FX  - Confidence Intervals
+
+MH  - Cognitive Training
+UI  - D000091942
+MN  - E2.760.169.63.500.477.250
+MN  - E2.831.477.250
+MN  - H2.403.680.600.750.250
+MN  - N2.421.784.511.250
+MS  - A non-pharmacological form of treatment focusing on guided practice on tasks that target specific cognitive functions. These functions include memory, attention, and problem-solving. (from Cochrane.org/CD013069/DEMENTIA_cognitive-training-people-mild-moderate-dementia)
+HN  - 2023
+BX  - Brain Training
+BX  - Cognitive Rehabilitation
+
+MH  - Collective Efficacy
+UI  - D000092885
+MN  - F1.829.316.223.500
+MN  - F1.829.401.694.250
+MN  - I1.880.853.500.525.250
+MN  - N1.224.791.775.250
+MN  - N3.55.750.250
+MN  - N6.850.505.400.800.775.250
+MS  - A group belief and perception in its ability to complete a task successfully. It includes shared belief it can control deviant behavior of a member.
+HN  - 2023
+BX  - Group Potency
+BX  - Team Efficacy
+
+MH  - Combat Medics
+UI  - D000094767
+MN  - M1.526.373.250.500
+MN  - M1.526.485.67.150.500
+MN  - N2.360.67.150.500
+MS  - Individuals trained to provide medical care in a military operational or combat environment.
+HN  - 2023
+BX  - Combat Medic
+BX  - Combat Medical Technicians
+BX  - Field Medical Service Technicians
+
+MH  - Combined Antibody Therapeutics
+UI  - D000094523
+MN  - D12.776.124.486.485.114.224.342
+MN  - D12.776.124.790.651.114.224.306
+MN  - D12.776.377.715.548.114.224.463
+MN  - D26.310.358
+MS  - Combinations of monoclonal antibodies used therapeutically to modulate the IMMUNE SYSTEM.
+HN  - 2023
+BX  - Antibody Cocktail
+FX  - Immunotherapy
+
+MH  - Comprehensive Metabolic Panel
+UI  - D000093182
+MN  - E1.370.225.124.100.174
+MN  - E5.200.124.100.174
+MS  - A series of blood tests on one panel that measure the body's chemical balance and metabolism.
+HN  - 2023
+BX  - CMP Testing
+BX  - Comprehensive Metabolic Panel Testing
+
+MH  - Congenital Cranial Dysinnervation Disorders
+UI  - D000093922
+MN  - C10.292.562.700.375
+MN  - C10.500.198
+MN  - C11.590.436.400
+MN  - C16.131.666.198
+MS  - Congenital neurodevelopmental diseases characterized by abnormal eye, eyelid, and facial movements. Congenital cranial dysinnervation disorders (CCDDs) are caused by abnormal innervation of CRANIAL NERVES (e.g., CNs III, IV and VI) resulting in aplasia or hypoplasia of the ocular and facial musculature involved in EYE MOVEMENTS.
+HN  - 2023
+BX  - Congenital Cranial Dysinnervation Syndromes
+BX  - Congenital Fibrosis Syndromes
+BX  - Congenital Innervation Dysgenesis Syndrome
+
+MH  - Corneal Cross-Linking
+UI  - D000094504
+MN  - E2.186.500.500
+MN  - E2.319.685.500
+MN  - E2.774.722.218
+MS  - An ophthalmic treatment used to prevent weakening or bulging of the CORNEA in corneal ECTASIA, e.g., post-LASIK ectasia, KERATOCONUS and pellucid marginal corneal degeneration. It uses UV-A and RIBOFLAVIN to crosslink and strengthen COLLAGEN fibers within the cornea.
+HN  - 2023
+BX  - Corneal Collagen Cross-Linking
+BX  - Epi-off Corneal Cross-Linking
+BX  - Epi-off CXL
+BX  - Epi-on CXL
+BX  - Epithelium-off Corneal Cross-Linking
+BX  - Epithelium-off CXL
+BX  - Epithelium-on Corneal Cross-Linking
+BX  - Epithelium-on CXL
+BX  - Transepithelial Corneal Cross-Linking
+BX  - Transepithelial CXL
+
+MH  - Correctional Facilities Personnel
+UI  - D000093762
+MN  - M1.526.199
+MS  - Persons who work at JAILS; PRISONS; or other CORRECTIONAL INSTITUTIONS.
+HN  - 2023
+BX  - Correctional Officers
+BX  - Correctional Staff
+BX  - Correctional Workers
+BX  - Corrections Officers
+BX  - Prison Guards
+
+MH  - Cost-Effectiveness Analysis
+UI  - D000094703
+MN  - N3.219.151.285
+MS  - A method of comparing the cost of a program with its expected outcomes that are qualitative in nature. Cost effectiveness compares alternative ways to achieve a specific set of results.
+HN  - 2023; use COST-BENEFIT ANALYSIS 2015-2022
+BX  - Cost Effectiveness
+BX  - Cost Effectiveness Ratio
+
+MH  - COVID-19 Drug Treatment
+UI  - D000093485
+MN  - E2.319.231
+MS  - The use of DRUGS to treat COVID19 or its symptoms.
+HN  - 2023 (2020)
+BX  - Coronavirus Disease 2019 Drug Treatment
+BX  - Coronavirus Disease-19 Drug Treatment
+BX  - COVID-19 Drug Therapy
+BX  - COVID19 Drug Therapy
+BX  - COVID19 Drug Treatment
+
+MH  - COVID-19 Serotherapy
+UI  - D000093522
+MN  - E2.95.465.425.400.330.50.200
+MN  - E5.478.550.520.50.200
+MS  - Transfer of blood plasma derived from patients who have recovered from COVID-19 to non-immune hosts.
+HN  - 2023 (2020)
+BX  - Convalescent Plasma Treatment for Covid-19
+BX  - Convalescent Serum Treatment for Covid-19
+BX  - Coronavirus Disease 2019 Serotherapy
+BX  - Coronavirus Disease-19 Serotherapy
+BX  - COVID-19 Convalescent Plasma Treatment
+BX  - Covid-19 Convalescent Sera Treatment
+BX  - COVID-19 Convalescent Serum Treatment
+BX  - COVID-19 Hyperimmune Globulin Therapy
+BX  - COVID-19 Serum Therapy
+BX  - COVID19 Hyperimmune Globulin Therapy
+BX  - COVID19 Serotherapy
+BX  - COVID19 Serum Therapy
+BX  - Hyperimmune Globulin Therapy for COVID-19
+BX  - SARS-CoV-2 Convalescent Plasma Treatment
+BX  - SARS-CoV-2 Convalescent Sera Treatment
+BX  - SARS-CoV-2 Convalescent Serum Treatment
+
+MH  - Crystalluria
+UI  - D000092162
+MN  - C23.888.942.169
+MS  - Crystals in the URINE found in urinary sediment analysis. Urinary crystalline may be formed from various metabolites (e.g., CALCIUMÂ OXALATES;Â CALCIUMÂ PHOSPHATES;Â URATES) and drugs (e.g., SULPHADIAZINE;Â ACYCLOVIR; andÂ TRIAMTERENE).
+HN  - 2023
+FX  - Urinary Calculi
+
+MH  - Cyclin-Dependent Kinase-Activating Kinase
+UI  - D000095043
+MN  - D8.811.913.696.620.682.700.646.500.992
+MN  - D12.776.167.200.790
+MN  - D12.776.476.563.646.500.992
+MS  - A highly-conserved cyclin-dependent kinase that activates other CYCLIN DEPENDENT KINASES and plays a key role in regulation of the CELL CYCLE.
+HN  - 2023 (1990)
+BX  - CDK-Activating Kinase
+BX  - Cyclin Dependent Kinase Activating Kinase
+BX  - P34CDC2 Activating Kinase
+
+MH  - Cytology
+UI  - D000093222
+MN  - H1.158.273.198
+MN  - H2.403.650.500.500
+MS  - The study of single cell as a unit of living organisms. Cytopathology, a branch of this discipline, studies structural changes of cells in diseases and is used in diagnosing diseases.
+AN  - the discipline only (education, history, etc); for cytological structures use the qualifer /cytol with specific anatomical term or organism; for pathological structures use the qualifer /pathol with specific anatomical term
+HN  - 2023 (1984)
+BX  - Cytopathology
+
+MH  - Delta Catenin
+UI  - D000095002
+MN  - D12.776.220.145.875
+MS  - A CATENIN protein that plays a critical role in cell adhesion and tissue morphogenesis by regulating the surface stability of C-, E-, and N- CADHERINS.
+HN  - 2023 (1994)
+BX  - Cadherin-Associated Src Substrate p120
+BX  - Catenin Delta-1
+BX  - Catenin Delta-2
+BX  - Catenin p120(ctn) Protein
+BX  - Catenin p120ctn Protein
+BX  - Catenin, Delta
+BX  - CTNND1 Protein
+BX  - CTNND2 Protein
+BX  - Delta Catenins
+BX  - Delta-Catenin
+BX  - Neurojungin
+
+MH  - Dental Care Team
+UI  - D000091982
+MN  - N4.590.715.275
+MS  - Care of dental patients by a multidisciplinary team usually organized under the leadership of a dentist; each member of the team has specific responsibilities and the whole team contributes to the oral care of the patient.
+HN  - 2023
+BX  - Oral Care Team
+
+MH  - Dental Enamel Hypomineralization
+UI  - D000094603
+MN  - C7.650.800.295.500
+MN  - C7.793.700.295.500
+MN  - C16.131.850.800.295.500
+MS  - Reduced mineralization disorder of the DENTAL ENAMEL during development resulting in qualitative defects, e.g., discolored or chalky (soft) enamel.
+HN  - 2023; for TOOTH HYPOMINERALIZATION see TOOTH DEMINERALIZATION 1992-2022; for MOLAR INCISOR HYPOMINERALIZATION use DENTAL ENAMEL HYPOPLASIA 1966-2022
+BX  - Dental Hypomineralization
+BX  - Enamel Hypomineralization, Dental
+BX  - Hypomineralization, Tooth
+BX  - Tooth Hypomineralization
+
+MH  - Descending Thoracic Aortic Aneurysm
+UI  - D000094627
+MN  - C14.907.55.239.125.750
+MN  - C14.907.109.139.125.750
+MS  - An abnormal balloon- or sac-like dilatation in the wall of the DESCENDING THORACIC AORTA.
+AN  - dissecting aneurysm: coordinate with AORTIC DISSECTION; rupture: coordinate with AORTIC RUPTURE
+HN  - 2023
+BX  - Aneurysm, Descending Thoracic Aorta
+
+MH  - Developmental Defects of Enamel
+UI  - D000094602
+MN  - C7.650.800.295
+MN  - C7.793.700.295
+MN  - C16.131.850.800.295
+MS  - Defects in normal AMELOGENESIS caused by any local, systemic, environmental, or genetic factors. Enamel defects resulting from demineralization of normally developed DENTAL ENAMEL is referred to as TOOTH DEMINERALIZATION.
+HN  - 2023
+BX  - Developmental Dental Enamel Defects
+
+MH  - Dietary Advanced Glycation End Products
+UI  - D000093362
+MN  - D9.400.205.250
+MN  - D23.946.381.250
+MN  - G7.203.300.356
+MN  - J2.500.356
+MS  - Advanced glycation end products (AGEs) present in food. They are absorbed by the GASTROINTESTINAL SYSTEM and contribute to the body's total AGEs. The food BROWNING REACTION, such as occurs during food processing or cooking with high heat (frying, broiling, grilling, roasting, etc.) accelerates the formation of AGEs in food.
+HN  - 2023
+BX  - Advanced Glycation End Product, Dietary
+BX  - Advanced Glycation End Products, Dietary
+BX  - Advanced Glycation Endproduct, Dietary
+BX  - Advanced Glycation Endproducts, Dietary
+BX  - Dietary Advanced Glycation End Product
+BX  - Dietary Advanced Glycation Endproduct
+BX  - Dietary Advanced Glycation Endproducts
+BX  - Dietary AGE
+BX  - Dietary AGEs
+BX  - Dietary Maillard Reaction Product
+BX  - Dietary Maillard Reaction Products
+BX  - Maillard Reaction Product, Dietary
+BX  - Maillard Reaction Products, Dietary
+
+MH  - Dissection, Abdominal Aorta
+UI  - D000094631
+MN  - C14.907.55.448.250.64
+MN  - C14.907.109.70.500.64
+MS  - Dissection or a tear of the ABDOMINAL AORTA. It includes thoracoabdominal aortic dissection at the aortic hiatus.
+HN  - 2023
+BX  - Abdominal Aortic Dissection
+BX  - Dissection, Thoracoabdominal Aorta
+BX  - Thoracoabdominal Aortic Dissection
+
+MH  - Dissection, Ascending Aorta
+UI  - D000094630
+MN  - C14.907.55.448.250.128.500
+MN  - C14.907.109.70.500.128.500
+HN  - 2023
+BX  - Aortic Root Dissection
+BX  - Ascending Aorta Dissection
+BX  - Ascending Aortic Dissection
+BX  - Dissection, Aortic Root
+
+MH  - Dissection, Blood Vessel
+UI  - D000094665
+MN  - C14.907.55.448
+MS  - A tear or separation of the layers by a blood vessel typically involving vessels under pressure, i.e., ARTERIES, e.g., AORTA. Tearing of the TUNICA INTIMA layer of a blood vessel may lead to interstitial HEMORRHAGE. Dissection between the tunica intima and TUNICA MEDIA causes luminal occlusion. Dissection at the media, or between the media and the outer ADVENTITIA causes aneurismal dilation.
+AN  - coordinate with specific aneurysm term if available; otherwise coordinate with specific vessel or precoordinated vascular disease
+HN  - 2023; use ANEURYSM, DISSECTING 2017-2022
+BX  - Arterial Dissection
+BX  - Dissection Artery
+
+MH  - Dissection, Thoracic Aorta
+UI  - D000094629
+MN  - C14.907.55.448.250.128
+MN  - C14.907.109.70.500.128
+MS  - Dissection or a tear of the THORACIC AORTA. It includes aortic root dissection, ascending aortic dissection, aortic arch dissection and descending thoracic aortic dissection.
+HN  - 2023
+BX  - Aortic Arch Dissection
+BX  - Descending Aorta Dissection
+BX  - Descending Thoracic Aortic Dissection
+BX  - Dissection, Aortic Arch
+BX  - Dissection, Descending Aorta
+BX  - Dissection, Descending Thoracic Aorta
+BX  - Thoracic Aorta Dissection
+BX  - Thoracic Aortic Dissection
+
+MH  - Diversity, Equity, Inclusion
+UI  - D000092783
+MN  - I1.76.201.450.350.500
+MN  - I1.880.853.100.450.500
+MS  - Developing and ensuring compliance with laws, regulations, and policies that support civil rights, equity, diversity, and inclusion. Executive Order 13985 (Advancing Racial Equity and Support for Underserved Communities Through the Federal Government), which established that affirmatively advancing equity, civil rights, racial justice, and equal opportunity is the responsibility of the whole of our Government.
+HN  - 2023
+BX  - Diversity, Equality, Inclusion
+BX  - Diversity, Equality, Inclusion, Accessibility
+BX  - Diversity, Equality, Inclusion, and Accessibility
+BX  - Diversity, Equity, and Inclusiveness
+BX  - Diversity, Equity, Inclusion, and Belonging
+BX  - Diversity, Equity, Inclusion, Belonging
+BX  - Diversity, Inclusion, Equity, and Belonging
+BX  - Diversity, Inclusion, Equity, Belonging
+BX  - Equity, Diversity, and Inclusion
+BX  - Inclusion, Diversity, Equality, Accessibility
+
+MH  - DNA Polymerase iota
+UI  - D000094769
+MN  - D8.811.913.696.445.308.300.493
+MS  - A highly error-prone DNA polymerase. It is a member of the Y-family of DNA polymerases that are DNA DAMAGE tolerant and involved in translesion DNA synthesis. DNA polymerase iota is an orthologue of yeast Rad30. Its replication fidelity is template dependent and favors Hoogsteen base-pairing at its active site.
+HN  - 2023 (2000)
+BX  - POL iota
+BX  - POLiota
+
+MH  - Document Analysis
+UI  - D000092002
+MN  - H1.770.644.241.850.375
+MS  - A form of qualitative research that uses a systematic procedure to analyze documentary evidence and answer specific research questions.
+HN  - 2023
+
+MH  - Dopaminergic Imaging
+UI  - D000092224
+MN  - E1.370.350.557.750
+MN  - E1.370.350.578.875.750
+MN  - E1.370.350.710.150
+MN  - E1.370.376.537.625.750
+MN  - E1.370.384.730.88
+MN  - E5.629.875.750
+MS  - Functional brain imaging techniques that utilize various RADIONUCLIDE TRACERS that bind to different targets in the SYNAPSES of DOPAMINERGIC NEURONS.
+HN  - 2023
+BX  - DAT Imaging
+BX  - Dopamine Receptor Imaging
+BX  - Dopamine Transporter Imaging
+BX  - Vesicular Monoamine Transporter Type 2 Imaging
+BX  - VMAT2 Imaging
+
+MH  - Dropped Head Syndrome
+UI  - D000094222
+MN  - C5.651.515.500
+MN  - C10.597.613.593.500
+MN  - C23.550.695.500
+MN  - C23.888.592.608.593.500
+MS  - Condition characterized by sagging of the head due to severe NECK MUSCLES weakness in the back of the neck. It may result in severe cervical KYPHOSIS called chin-on-chest deformity. Dropped head syndrome is most often associated with other diseases, e.g., PARKINSON'S DISEASE; STROKES; HEAD AND NECK CANCER; and ANKYLOSING SPONDYLITIS.
+HN  - 2023
+BX  - Chin-on-Chest Deformity
+
+MH  - Drought Resistance
+UI  - D000091902
+MN  - G15.150
+MS  - The ability of a plant to adapt in a drought environment and tolerate a reduction in available water.
+HN  - 2023
+BX  - Drought Avoidence
+BX  - Drought Escape
+BX  - Drought Injury
+BX  - Drought Recovery
+BX  - Drought Tolerance
+FX  - Droughts
+
+MH  - Drug Fever
+UI  - D000092582
+MN  - C20.543.418.257
+MN  - C23.888.119.344.173
+MN  - C25.100.468.690
+MS  - Drug-induced fever.
+HN  - 2023
+BX  - Drug-Induced Fever
+BX  - Drug-Induced Hyperthermia
+
+MH  - Dust Mite Allergy
+UI  - D000092542
+MN  - C8.460.799.315.500.500
+MN  - C8.674.453.500.500
+MN  - C9.603.799.315.500.500
+MN  - C20.543.480.680.443.500.500
+MS  - Allergic rhinitis due to HOUSE DUST MITE ALLERGENS (e.g., Der p 1 of HOUSE DUST MITES) that is triggered by the immune system.
+HN  - 2023
+BX  - Dermatophagoides farinae Allergy
+BX  - Dermatophagoides pteronyssinus Allergy
+BX  - Dust Mite Hypersensitivity
+BX  - House Dust Mite Allergy
+BX  - House Dust Mite Hypersensitivity
+FX  - Antigens, Dermatophagoides
+
+MH  - East African People
+UI  - D000094846
+MN  - M1.686.254.750.750
+MS  - People native to or inhabitants of EASTERN AFRICA including BURUNDI, DJIBOUTI, ERITREA, ETHIOPIA, KENYA, RWANDA, SOMALIA, SOUTH SUDAN, SUDAN, TANZANIA, and UGANDA and islands COMOROS; MADAGASCAR and SEYCHELLES.
+HN  - 2023
+BX  - East African Person
+BX  - East Africans
+BX  - Eastern African People
+BX  - Eastern African Person
+BX  - Eastern Africans
+
+MH  - East Asian People
+UI  - D000095225
+MN  - M1.686.330.500
+HN  - 2023; for CHINESE use ASIANS 1981-2022, for JAPANESE use ASIANS 2004-2022; for KOREANS use ASIANS 2004-2022
+BX  - East Asians
+BX  - Eastern Asian People
+BX  - Eastern Asians
+BX  - Far East Asians
+
+MH  - Eastern European People
+UI  - D000094855
+MN  - M1.686.445.500
+MS  - People native to or inhabitants of EASTERN EUROPE including ALBANIA; BOSNIA AND HERZEGOVINA; BULGARIA; CROATIA; CZECH REPUBLIC; ESTONIA; HUNGARY; KOSOVO; LATVIA; LITHUANIA; MOLDOVA; MONTENEGRO; POLAND; REPUBLIC OF NORTH MACEDONIA; REPUBLIC OF BELARUS; ROMANIA; RUSSIA; SERBIA; SLOVAKIA; SLOVENIA; and UKRAINE.
+HN  - 2023
+BX  - East European People
+BX  - East European Person
+BX  - East Europeans
+BX  - Eastern European Person
+BX  - Eastern Europeans
+BX  - Slavic People
+BX  - Slavic Peoples
+
+MH  - Ehlers-Danlos Syndrome, Type IV
+UI  - D000094623
+MN  - C14.907.55.448.250.256
+MN  - C14.907.454.240.500
+MN  - C15.378.463.515.240.500
+MN  - C16.131.831.428.500
+MN  - C16.320.850.260.500
+MN  - C17.300.200.310.500
+MN  - C17.800.804.428.500
+MN  - C17.800.827.260.500
+MS  - A subtype of Ehlers-Danlos syndrome (EDS) characterized by vascular pathologies, e.g., AORTIC DISSECTION in addition to common EDS findings, e.g., hyperextensible skin and joints, skin fragility and reduced wound healing capability. It is associated with mutations in collagen type III alpha 1 chain gene (COLLAGEN TYPE III).
+HN  - 2023; see EHLERS-DANLOS SYNDROME 2008-2022
+BX  - Type IV Ehlers-Danlos Syndrome
+BX  - Vascular Ehlers-Danlos Syndrome
+BX  - Vascular Type Ehlers-Danlos Syndrome
+
+MH  - Elbow Fractures
+UI  - D000092482
+MN  - C26.88.134.500
+MN  - C26.404.20
+MS  - Fractures of the distal HUMERUS and the proximal ULNA and the RADIUS at the ELBOW JOINT, including the head, anatomic and surgical necks, and tuberosities.
+HN  - 2023
+BX  - Proximal Radial Fractures
+BX  - Proximal Radius Fractures
+BX  - Proximal Ulna Fractures
+
+MH  - Elbow Injuries
+UI  - D000092464
+MN  - C26.88.134
+MS  - Injuries involving the ELBOW and ELBOW JOINT.
+HN  - 2023
+BX  - Elbow Joint Injuries
+
+MH  - Electroporation Therapies
+UI  - D000092722
+MN  - E2.348
+MN  - E5.200.500.454.750
+MN  - E5.242.448.750
+MN  - E5.301.500.750
+MS  - Treatment modalities that use pulsed electrical currents to permeabilize cell membranes and thereby enhance uptake of substances into cells of the body.
+HN  - 2023
+BX  - Electroporation Therapeutic Uses
+BX  - Electroporation Therapy
+BX  - Therapeutic Use of Electroporation
+
+MH  - Elimination Diets
+UI  - D000092724
+MN  - G7.203.650.240.333
+MS  - Temporary dietary restrictions designed to help identify specific foods or FOOD ADDITIVES that trigger ALLERGIC REACTIONS, symptoms of DIGESTIVE SYSTEM DISORDERS, or other adverse food reactions.
+HN  - 2023
+BX  - Diet, Elimination
+BX  - Elimination Diet
+
+MH  - Endovascular Aneurysm Repair
+UI  - D000094682
+MN  - E4.100.814.529.953
+MN  - E4.100.814.868.500.500
+MN  - E4.502.382.953
+MN  - E4.650.200.500
+MS  - Endovascular surgery used to treat an AORTIC ANEURYSM. It involves implanting an endovascular stent graft around dilated vessel area reinforcing the wall and creating an artificial lumen through which blood can circulate bypassing aneurysm sac.
+HN  - 2023
+BX  - BEVAR
+BX  - Branched Endovascular Aneurysm Repair
+BX  - Endovascular Aortic Repair
+BX  - Endovascular Stent Grafting
+BX  - Fenestrated Endovascular Aneurysm Repair
+BX  - FEVAR
+BX  - TEVAR
+BX  - Thoracic Endovascular Aneurysm Repair
+BX  - Thoracic Endovascular Aortic Repair
+
+MH  - Epigenetic Memory
+UI  - D000094363
+MN  - G5.308.203.280
+MS  - Various mechanisms by which a stable propagation of changes in gene expression that is passed from egg and sperm to the embryo persists via epigenetic changes, e.g., DNA METHYLATION pattern changes.
+HN  - 2023
+BX  - Epigenetic Cellular Memory
+BX  - Epigenetic Transcriptional Memory
+BX  - Transgenerational Epigenetic Memory
+
+MH  - European People
+UI  - D000094854
+MN  - M1.686.445
+MS  - People native to or inhabitants of EUROPE.
+HN  - 2023
+BX  - European Person
+BX  - Europeans
+
+MH  - Evidence Gaps
+UI  - D000094505
+MN  - H1.770.644.264
+MN  - N3.349.380.105
+MN  - N5.425.171
+MS  - Areas where little or no evidence from impact evaluations and SYSTEMATIC REVIEWS is available and where future research should be focused (from https://openknowledge.worldbank.org/handle/10986/16941).
+AN  - coordinate with specific field, disease, or topic if pertinent
+HN  - 2023
+BX  - Evidence Practice Gaps
+BX  - Insufficient Evidence
+BX  - Research Gaps
+FX  - Evidence-Based Practice
+
+MH  - Exercise-Induced Allergies
+UI  - D000092202
+MN  - C20.543.480.363
+MS  - Allergic reactions following a period of exercise. Elevated serum HISTAMINE and TRYPTASE levels and cutaneous MAST CELL degranulation are often associated with post-exertional allergic reactions which sometimes are triggered only in combination with prior consumption of a specific food such as wheat. Allergic symptoms produced post-exercise range from skin eruption, asthma, bronchospasm, and anaphylaxis.
+HN  - 2023
+BX  - Exercise-Induced Anaphylaxis
+BX  - Exercise-Induced Anaphylaxis and Urticaria
+BX  - Exercise-Induced Urticaria
+BX  - Food-Dependent Exercise-Induced Allergies
+BX  - Post-Exertional Allergic Reactions
+BX  - WDEIA
+BX  - Wheat-Dependent Exercise-Induced Anaphylaxis
+FX  - Vocal Cord Dysfunction
+
+MH  - Extended Family
+UI  - D000092842
+MN  - F1.829.263.315.250.125
+MN  - I1.240.361.330.500
+MN  - I1.880.853.150.423.250.125
+MN  - N1.224.361.330.500
+MN  - N1.824.308.125.500
+MN  - N6.850.505.400.400.580.500
+MS  - A household with members of at least three generations.
+HN  - 2023; use FAMILY 1979-2022
+BX  - Extended Household
+BX  - Multigenerational Family
+BX  - Multigenerational Household
+
+MH  - Family Structure
+UI  - D000092822
+MN  - F1.829.263.315.250
+MN  - I1.240.361.330
+MN  - I1.880.761.125
+MN  - I1.880.853.150.423.250
+MN  - N1.224.361.330
+MN  - N1.824.308.125
+MN  - N6.850.505.400.400.580
+MS  - Structural nature of relationships among members of a household typically in reference to a MINOR residing in the same home. More broadly any organizational framework that determines family membership, and the functions and hierarchical position of family members (https://eric.ed.gov/?qt=Family+Structure&ti=Family+Structure).
+HN  - 2023; for STEPFAMILY and FAMILY, RECONSTITUTED use FAMILY 1996-2022; for MATRIARCHY and PATRIARCHY use FAMILY CHARACTERISTICS 1995-2022
+BX  - Family, Reconstituted
+BX  - Reconstituted Family
+BX  - Step-parent Family
+BX  - Stepfamily
+BX  - Stepparent Family
+
+MH  - Family Support
+UI  - D000092802
+MN  - F1.829.263.370.82
+MN  - I1.880.853.150.439.500
+MN  - I1.880.853.500.600.375
+MS  - Support systems that provide assistance and encouragement between and among members of a FAMILY.
+HN  - 2023
+BX  - Family Assistance
+BX  - Family Encouragement
+
+MH  - Femoral Fractures, Distal
+UI  - D000092524
+MN  - C26.404.61.213
+MN  - C26.558.276.213
+MS  - Fractures of the distal FEMUR from the articular surface in the KNEE to the condylar region of the femur. A subset with a coronal-plane fracture of the distal femur condyle(s) is Hoffa Fracture.
+HN  - 2023
+BX  - Distal Femoral Fractures
+BX  - Distal Femur Fractures
+BX  - Femur Fractures, Distal
+BX  - Lateral Femoral Condyle Fractures
+BX  - Medial Femoral Condyle Fractures
+
+MH  - Fibula Fractures
+UI  - D000092504
+MN  - C26.404.23
+MS  - Fractures of the FIBULA.
+HN  - 2023
+BX  - Fibula Shaft Fractures
+BX  - Maisonneuve Fracture
+BX  - Maisonneuve Fracture Dislocation
+
+MH  - Focal Cortical Dysplasia
+UI  - D000092222
+MN  - C10.500.507.400.125
+MN  - C16.131.666.507.400.125
+MS  - Abnormal, non-neoplastic cell proliferation of the CEREBRAL CORTEX confined to an area in any lobe. Focal cortical dysplasia in the temporal lobe is associated with TEMPORAL LOBE EPILEPSY.
+HN  - 2023
+BX  - Taylor Dysplasia
+BX  - Taylor Focal Cortical Dysplasia
+BX  - Taylor's FCD
+
+MH  - FODMAP Diet
+UI  - D000092622
+MN  - G7.203.650.240.333.500
+MS  - A type of elimination diet restricting from foods with fermentable oligosaccharides, disaccharides, monosaccharides, and polyols, to help determine if specific foods containing these carbohydrates are triggering symptoms of IRRITABLE BOWEL SYNDROME.
+HN  - 2023
+BX  - Diet, FODMAP
+BX  - FODMAP-Containing Diet
+BX  - FODMAPs Diet
+BX  - Low FODMAP Diet
+BX  - Low-FODMAP Diet
+
+MH  - Food, Processed
+UI  - D000092965
+MN  - G7.203.300.523
+MN  - J2.500.523
+MS  - Any raw agricultural commodity that has been subject to washing, cleaning, milling, cutting, chopping, heating, pasteurizing, blanching, cooking, canning, freezing, drying, dehydrating, mixing, packaging or other procedures that alter the food from its natural state. (from  A Guide to Federal Terms and Acronyms. Lanham, MD: Government Institutes.1991)
+HN  - 2023
+BX  - Food, Ultra-Processed
+BX  - Processed Foods
+BX  - Ultra-Processed Foods
+
+MH  - Forensic Microbiology
+UI  - D000095024
+MN  - I1.198.780.945
+MS  - The scientific discipline dedicated to analyzing evidence from BIOTERRORISM, biocrime, HOAX, or inadvertent microorganism/toxin release for attribution purposes.
+HN  - 2023
+BX  - Forensic Microbial Science
+BX  - Microbial Forensic Science
+BX  - Microbial Forensics
+BX  - Post Mortem Microbiology
+BX  - Post-Mortem Microbiology
+BX  - Postmortem Microbiology
+
+MH  - Gasdermins
+UI  - D000094524
+MN  - D12.776.157.530.400.353
+MN  - D12.776.543.550.450.464
+MN  - D12.776.543.585.400.464
+MS  - A  family of pore-forming effector proteins that cause membrane permeabilization and PYROPTOSIS.. Gasdermin-induced pyroptosis plays a prominent role in many HEREDITARY DISEASES and autoinflammatory disorders as well as in CANCER.
+HN  - 2023
+BX  - Cancer Associated Gasdermin-Domain Containing (GSDMDC) Proteins
+
+MH  - Gemcitabine
+UI  - D000093542
+MN  - D3.258
+MN  - D3.383.742.680.245.500.775
+MS  - A deoxycytidine antimetabolite used as an antineoplastic agent.
+HN  - 2023 (1988)
+BX  - 2',2'-Difluoro-2'-Deoxycytidine
+BX  - 2',2'-Difluorodeoxycytidine
+BX  - 2'-Deoxy-2',2''-Difluorocytidine-5'-O-Monophosphate
+BX  - 2'-Deoxy-2'-Difluorocytidine
+BX  - Gemcitabine Hydrochloride
+BX  - Gemcitabine, (alpha-D-threo-pentofuranosyl)-Isomer
+BX  - Gemcitabine, (beta-D-threo-pentafuranosyl)-Isomer
+BX  - Gemcitabine, (D-threo-pentafuranosyl)-Isomer
+BX  - Gemicitabine
+
+MH  - Global Longitudinal Strain
+UI  - D000094582
+MN  - G9.330.380.375
+MS  - Global longitudinal strain (GLS) is a measure of ventricular function derived from 2-dimensional echocardiographic images by quantifying the relative length change in myocardial length between end-diastole and end-systole. GLS is used to predict cardiovascular outcomes and has been proposed to be a better measure of cardiac dysfunction than VENTRICULAR EJECTION FRACTION.
+HN  - 2023
+BX  - Left Ventricular Global Longitudinal Strain
+BX  - LV-GLS
+BX  - Right Ventricular Global Longitudinal Strain
+BX  - RV-GLS
+
+MH  - Glutathione Peroxidase GPX1
+UI  - D000094765
+MN  - D8.811.682.732.500.500
+MN  - D12.776.864.50.500
+MS  - One of the most abundant isoenzymes of the glutathione peroxidase family. Located in the cytosol and mitochondria, it catalyzes the reduction of HYDROGEN PEROXIDE to water,  functioning to limit the accumulation of hydrogen peroxide and modulating processes that utilize hydrogen peroxide; and also the reduction of other organic hydroperoxides to their corresponding alcohols.
+HN  - 2023 (1999)
+BX  - Glutathione Peroxidase 1
+BX  - GPX1 Glutathione Peroxidase
+
+MH  - Glycated Proteins
+UI  - D000093844
+MN  - D9.400.205.625
+MN  - D9.400.430.914
+MN  - D12.776.395.351
+MN  - D12.776.794.375
+MN  - D23.946.381.625
+MS  - Advanced glycation end products formed from the spontaneous, non-enzymatic reaction of sugars with free amino groups in proteins. In the past, a glycosylated protein sometimes referred to a glycated protein.  GLYCOSYLATED PROTEINS is now restricted to proteins glycosylated by GLYCOSYLTRANSFERASES or via specialized organic chemistry reactions.
+HN  - 2023
+
+MH  - Glycated Serum Albumin
+UI  - D000093423
+MN  - D9.400.205.625.500.500
+MN  - D9.400.430.914.500.500
+MN  - D12.776.34.841.113
+MN  - D12.776.124.335.500
+MN  - D12.776.124.727.188
+MN  - D12.776.395.351.500.500
+MN  - D23.946.381.625.500.500
+MS  - Serum albumin that has undergone, in vivo, spontaneous, non-enzymatic modification with reducing sugars via the MAILLARD REACTION. They are analyzed to measure control of HYPERGLYCEMIA.
+HN  - 2023
+BX  - Glycated Albumin, Serum
+BX  - Glycoalbumin
+BX  - Glycosyl-Albumin
+BX  - Glycosylated Serum Albumin
+BX  - Serum Albumin, Glycosylated
+
+MH  - Glycated Serum Proteins
+UI  - D000093422
+MN  - D9.400.205.625.500
+MN  - D9.400.430.914.500
+MN  - D12.776.124.335
+MN  - D12.776.395.351.500
+MN  - D23.946.381.625.500
+MS  - Proteins in serum that have undergone, in vivo, non-enzymatic modification with reducing sugars via the MAILLARD REACTION. They are analyzed to measure control of HYPERGLYCEMIA.
+HN  - 2023
+BX  - Glycated Blood Protein
+BX  - Glycated Blood Proteins
+BX  - Glycated Serum Protein
+BX  - Glycosylated Blood Protein
+BX  - Glycosylated Blood Proteins
+BX  - Glycosylated Serum Protein
+BX  - Glycosylated Serum Proteins
+BX  - Serum Protein, Glycated
+BX  - Serum Protein, Glycosylated
+
+MH  - Group Dynamics
+UI  - D000092923
+MN  - F1.829.316.223
+MS  - Processes of change in any social group from formation to functioning. It includes various forces that drive relationship among members and interaction with other groups.
+HN  - 2023
+BX  - Group Interaction
+BX  - Group Pressures
+BX  - Groupthink
+BX  - Organizational Behavior
+BX  - Organizational Dynamics
+BX  - Social Dynamics
+BX  - Social Group Dynamics
+BX  - Social Loafing
+
+MH  - Gynecologists
+UI  - D000094502
+MN  - M1.526.485.810.557
+MN  - N2.360.810.557
+MS  - Qualified medical professionals who specialize in GYNECOLOGY.
+HN  - 2023
+
+MH  - Hippocampal Sclerosis
+UI  - D000092223
+MN  - C10.500.507.400.187
+MN  - C16.131.666.507.400.187
+MS  - Neuronal loss in the hippocampal regions of CA1 and CA4 and less severely CA2 and CA3. Additional loss of hippocampal stratum radiatum, hippocampal atrophy and ASTROGLIOSIS are common. Hippocampal sclerosis is associated with intractable TEMPORAL LOBE EPILEPSY.
+HN  - 2023
+BX  - Ammon Horn Sclerosis
+BX  - CA1 Hippocampal Sclerosis
+BX  - CA4 Hippocampal Sclerosis
+BX  - Endfolium Sclerosis
+BX  - Hippocampal Sclerosis of Aging
+BX  - Mesial Temporal Sclerosis
+
+MH  - Hoffa Fracture
+UI  - D000092525
+MN  - C26.404.61.712
+MN  - C26.404.525.250
+MN  - C26.558.276.712
+MN  - C26.558.554.625.250
+MS  - Coronal plane fractures of the FEMUR condyle at the KNEE.
+HN  - 2023
+BX  - Bicondylar Hoffa Fractures
+BX  - Hoffa Fragment
+
+MH  - Human Papillomavirus Viruses
+UI  - D000094302
+MN  - B4.280.210.655.450
+MN  - B4.613.204.655.450
+MS  - A large group of viruses that cause HUMAN PAPILLOMAVIRUS INFECTION, e.g., GENITAL WARTS and cancer of the CERVIX; VAGINA; VULVA; ANUS; or OROPHARYNX. Most common clinically important human papilloma viruses are taxonomically members of ALPHAPAPILLOMAVIRUS and GAMMAPAPILLOMAVIRUS.
+AN  - infection = HUMAN PAPILLOMAVIRUS INFECTION see PAPILLOMAVIRUS INFECTIONS
+HN  - 2023; use ALPHAPAPILLOMAVIRUS 2016-2022
+BX  - HPV Human Papillomavirus
+BX  - Human Papillomavirus
+
+MH  - Humeral Fractures, Distal
+UI  - D000092483
+MN  - C26.88.134.500.500
+MN  - C26.88.390.500
+MN  - C26.404.20.125
+MN  - C26.404.500.500
+MS  - Fractures of the distal HUMERUS at the ELBOW JOINT.
+HN  - 2023
+BX  - Capitellum Humeri Fracture
+BX  - Capitellum Humerus Fracture
+BX  - Distal Humeral Fractures
+BX  - Distal Humerus Fractures
+BX  - Hahn-Steinthal Fracture
+BX  - Humeral Capitellar Fractures
+BX  - Humeral Trochlear Fractures
+BX  - Intercondylar Humeral Fractures
+BX  - Intercondylar Humerus Fractures
+BX  - Kocher-Lorenz Fracture
+BX  - Lateral Condylar Fracture of Humerus
+BX  - Lateral Condylar Fractures of Humerus
+BX  - Lateral Condyle Fracture of Humerus
+BX  - Lateral Condyle Fractures of Humerus
+BX  - Lateral Epicondylar Fracture of Humerus
+BX  - Lateral Epicondylar Fractures of Humerus
+BX  - Lateral Epicondyle Fracture of Humerus
+BX  - Lateral Epicondyle Fractures of Humerus
+BX  - Lateral Epicondyle Fractures of the Elbow
+BX  - Lateral Humeral Condyle Fractures
+BX  - Supracondylar Distal Humeral Fracture
+BX  - Supracondylar Distal Humeral Fractures
+BX  - Supracondylar Distal Humerus Fracture
+BX  - Supracondylar Distal Humerus Fractures
+BX  - Trochlear Fractures, Humerus
+
+MH  - Hypothalamic-Pituitary-Gonadal Axis
+UI  - D000094365
+MN  - A6.688.357.250
+MN  - A8.186.211.180.497.352.435.125
+MN  - A8.186.211.200.317.357.352.435.125
+MN  - A8.713.357.250
+MS  - A collection of NEURONS, tracts of NERVE FIBERS, endocrine tissue, and blood vessels in the HYPOTHALAMUS, the PITUITARY GLAND and the GONADS. It plays a central role in endocrine regulation of gonadal function including release of hormones: GNRH; LUTEINIZING HORMONE; FOLLICLE-STIMULATING HORMONE and TESTOSTERONE.
+HN  - 2023
+BX  - HPG Axis
+BX  - Hypothalamic-Pituitary-Gonadal Endocrine Axis
+
+MH  - Idiopathic Noncirrhotic Portal Hypertension
+UI  - D000094724
+MN  - C6.552.494.561
+MS  - Portal hypertension without known risk factors for hypertension, e.g., HEPATIC CIRRHOSIS and SCHISTOSOMIASIS. Idiopathic Noncirrhotic Portal Hypertension is most often associated with pathology in the PORTAL SYSTEM vasculature.
+HN  - 2023
+BX  - Banti's Disease
+BX  - Banti's Syndrome
+BX  - Idiopathic Congestive Splenomegaly
+BX  - Idiopathic Non-Cirrhotic Portal Hypertension
+BX  - Idiopathic Portal Hypertension
+BX  - INCPH
+BX  - Noncirrhotic Portal Fibrosis
+BX  - Porto-Sinusoidal Vascular Diseases
+
+MH  - Immunonutrition Diet
+UI  - D000093702
+MN  - G7.203.650.240.732
+MS  - Diets supplemented with nutrients that beneficially stimulate the IMMUNE RESPONSE and improve control of inflammatory processes.
+HN  - 2023
+BX  - Immuno-Nutrition
+BX  - Immunomodulating Diet
+BX  - Immunomodulatory Diet
+BX  - Immunonutrient-Enriched Diet
+BX  - Immunonutrition
+
+MH  - Infant, Large for Gestational Age
+UI  - D000094522
+MN  - M1.60.703.520.230
+MS  - Infants whose BIRTH WEIGHT is larger than the 90th percentile for a given gestational age.
+AN  - check the tag INFANT, NEWBORN; do not confuse with FETAL MACROSOMIA or INFANT, POSTMATURE 
+HN  - 2023
+BX  - High Birth Weight Infant
+BX  - High-Birth-Weight Infant
+BX  - Infant, Large-for-Gestational-Age
+BX  - Large for Gestational Age Infant
+BX  - Large-for-Gestational-Age Infant
+BX  - LGA Infant
+
+MH  - Information Motivation Behavioral Skills Model
+UI  - D000092024
+MN  - E5.599.695.413
+MS  - A model for understanding patient behaviors, recognizes three constructsâ€”information, motivation, and behavioral skillsâ€”needed to engage in a given health behavior, as specific individual determinants of behavior and behavioral change (Fisher & Fisher; Norton, 2009).
+HN  - 2023
+BX  - Information-Motivation-Behavioral Skills Model
+
+MH  - Information Sources
+UI  - D000093983
+MN  - L1.462
+MS  - Various communications media, information centers, information services that are are utilized to obtain information.
+HN  - 2023; for DATA SOURCES use INFORMATION STORAGE AND RETRIEVAL 1986-2022
+BX  - Data Source
+BX  - Information Source
+BX  - Source of Information
+BX  - Sources of Information
+
+MH  - Innate Immunity Recognition
+UI  - D000094406
+MN  - G12.450.564.530
+MS  - Innate immunity systems which recognize presence of pathogens either through detection of damages associated with pathogen effector, e.g., pathogenic toxins and pore formation (effector triggered immunity) or though detection of molecular patterns common to many types of microbes (PATHOGEN-ASSOCIATED MOLECULAR PATTERN MOLECULES) through PATTERN RECOGNITION RECEPTORS.
+HN  - 2023
+BX  - Effector Triggered Immunity
+BX  - Innate Immunity Recognition Systems
+BX  - PAMP-Triggered Immunity
+BX  - Pathogen-Associated Molecular Pattern-Triggered Immunity
+BX  - Pattern-Triggered Immunity
+BX  - Surveillance Immunity
+
+MH  - Insulin Secretagogues
+UI  - D000092005
+MN  - D27.505.696.422.625
+MS  - Hypoglycemic agents that stimulate INSULIN SECRETION from the PANCREATIC BETA CELL to decrease postprandial BLOOD GLUCOSE.
+HN  - 2023
+BX  - Hypoglycemic Sulfonylureas
+BX  - Insulin Secretogogue
+BX  - Insulin Secretogogues
+BX  - Meglitinide Analogues
+
+MH  - Interferon Lambda
+UI  - D000095022
+MN  - D12.644.276.374.440.946
+MN  - D12.776.467.374.440.946
+MN  - D23.529.374.440.946
+MS  - A specific type of interferon that is similar to  INTERFERON TYPE I. It primarily functions at barrier epithelial surface, such as the respiratory tract and blood brain barrier
+HN  - 2023 (2018)
+BX  - IFN-Lambda
+BX  - Interferon Type III
+BX  - Interferon-Lambda
+BX  - Lambda Interferons
+BX  - Type III IFN
+BX  - Type III IFNs
+BX  - Type III Interferon
+BX  - Type III Interferons
+
+MH  - Interleukin-6 Inhibitors
+UI  - D000093242
+MN  - D27.505.696.477.656.594
+MS  - Immunosuppressive agents which inhibit the action of INTERLEUKIN-6.
+HN  - 2023
+BX  - Anti-IL-6 Agents
+BX  - Anti-IL6 Agents
+BX  - Anti-Interleukin-6 Agents
+BX  - IL-6 Inhibitors
+BX  - IL6 inhibitors
+
+MH  - Intermittent Fasting
+UI  - D000093763
+MN  - F1.145.407.400.500
+MN  - G7.203.650.240.587.500
+MN  - G7.203.650.353.400.500
+MS  - Alternating between fasting for an extended period of time during the day and eating during a restricted time for the day.
+HN  - 2023; use FASTING 2019-2022; for TIME RESTRICTED FEEDING use FASTING 2019-2022
+BX  - Time Restricted Eating
+BX  - Time Restricted Fasting
+
+MH  - Irreversible Electroporation Therapy
+UI  - D000092723
+MN  - E2.348.750
+MN  - E5.200.500.454.750.750
+MN  - E5.242.448.750.750
+MN  - E5.301.500.750.750
+MS  - The use of a dose of electricity that causes the pores that are formed  in CELL MEMBRANES during ELECTROPORATION to remain open long enough to trigger CELL DEATH. It is sometimes used in conjunction with ELECTROCHEMOTHERAPY.
+HN  - 2023
+BX  - Pulse Field Ablation
+
+MH  - Isolated Systolic Hypertension
+UI  - D000092244
+MN  - C14.907.489.165.500
+MS  - Hypertension with elevated systolic and normal diastolic blood pressure. It is the most common subtype in the elderly and is related to VASCULAR STIFFNESS and ATHEROSCLEROTIC PLAQUE buildup.
+HN  - 2023
+BX  - Systolic Hypertension
+
+MH  - Kinesiophobia
+UI  - D000092442
+MN  - F1.100.575.500
+MN  - F1.470.132.225.500
+MN  - F3.80.725.375
+MS  - Anxiety disorder of persistent and irrational fear of movement following an injury. It is related to perceived disability due to injury and CATASTROPHIZING in fear of (anticipated) PAIN and possibility of REINJURY.
+HN  - 2023
+BX  - Fear of Movement
+BX  - Kinesophobia
+BX  - Kinetophobia
+BX  - Movement Phobia
+BX  - Pain-Related Activity Avoidance
+BX  - Phobia, Movement
+
+MH  - Knee Fractures
+UI  - D000092443
+MN  - C26.404.525
+MN  - C26.558.554.625
+MS  - Fractures of bones at the KNEE and the KNEE JOINT.
+HN  - 2023
+BX  - Femoral Condyle Fractures
+BX  - Femoral Condyles Fractures
+BX  - Fractured Knee
+BX  - Knee Joint Fractures
+BX  - Tibial Eminence Fractures
+BX  - Tibial Spine Fractures
+BX  - Tibial Tuberosity Fractures
+
+MH  - Lacticaseibacillus
+UI  - D000093622
+MN  - B3.353.750.450.606
+MN  - B3.510.460.400.410.475.737
+MN  - B3.510.550.450.606
+MS  - A genus of gram-positive, non-motile, homofermentative, oxidase negative, rod-shaped bacteria occurring widely in nature. Its species previously were referred to as Lactobacillus casei group. The genus harbors several species that are used as starter cultures in dairy fermentations and as probiotics.
+HN  - 2023
+
+MH  - Lagophthalmos
+UI  - D000092164
+MN  - C11.300.750
+MN  - C11.338.714
+MS  - Inability to close eyelids completely.
+HN  - 2023
+BX  - Blink Lagophthalmos
+BX  - Cicatricial Lagophthalmos
+BX  - Iatrogenic Lagophthalmos
+BX  - Nocturnal Lagophthalmos
+BX  - Paralytic Lagophthalmos
+
+MH  - Layer-by-Layer Nanoparticles
+UI  - D000093882
+MN  - J1.637.512.75
+MS  - Nanostructures fabricated by assembly of ordered layers of known compositions primarily through electro-static interactions. Such nanoparticles can be used for targeted delivery of complex components in ordered release patterns.
+HN  - 2023
+BX  - Electrostatic Assembly Nanoparticles
+BX  - Layer-by-Layer Assembly
+BX  - Layer-by-Layer Assembly Nanoparticles
+BX  - Layer-by-Layer Self-Assembly Nanoparticles
+BX  - LbL Nanoparticles
+
+MH  - Limbal Stem Cell Deficiency
+UI  - D000092423
+MN  - C11.204.720
+MS  - Loss or disturbance of limbal STEM CELL function in the CORNEAL LIMBUS resulting in inability to self-renew CORNEAL EPITHELIUM and conjunctivalized corneal surface.
+HN  - 2023
+
+MH  - Limbal Stem Cells
+UI  - D000093282
+MN  - A11.872.40.750
+MS  - Adult somatic stem cells found in the basal epithelial layer of the LIMBUS CORNEAE.
+HN  - 2023
+BX  - Corneal Epithelial Stem Cells
+BX  - Limbal Epithelial Stem Cells of the Cornea
+
+MH  - Local Field Potential Measurement
+UI  - D000094382
+MN  - E1.370.376.400
+MN  - E1.370.405.353
+MS  - Recording of brain electrical activities recorded by a small-size electrode in the brain. It measures electric potential in the extracellular medium around neurons generated by small electric currents of local origin.
+HN  - 2023
+BX  - Intracerebral LFP Measurement
+BX  - Intracerebral Local Field Potential Measurement
+
+MH  - Low Anterior Resection Syndrome
+UI  - D000094123
+MN  - C6.405.469.158.644
+MN  - C6.405.469.860.512
+MN  - C23.550.767.550
+MS  - Postoperative complication after removal of the RECTUM (low anterior resection surgery or resection surgery to the lower part of the COLON). It includes disordered rectum function, e.g., frequent BOWEL MOVEMENT; FECAL INCONTINENCE; and CONSTIPATION.
+HN  - 2023
+
+MH  - Low Socioeconomic Status
+UI  - D000092886
+MN  - I1.880.853.996.755.337
+MN  - N1.824.782.337
+MS  - Socioeconomic status with relatively low income and/or assets (POVERTY) and EDUCATIONAL LEVEL.
+HN  - 2023
+BX  - Low Socioeconomic Level
+
+MH  - Lupanes
+UI  - D000094042
+MN  - D2.455.849.919.530.600
+MS  - Pentacyclic triterpenes with isopropyl and its derivatives at the C19 position. It is initially biosynthesized by cyclization of oxidosqualene to lupeol.
+HN  - 2023(2020)
+BX  - Lupane Derivatives
+BX  - Lupane Triterpenes
+BX  - Lupane Triterpenoids
+BX  - Lupane-Type Pentacyclic Triterpenoids
+BX  - Lupane-Type Triterpenes
+BX  - Lupane-Type Triterpenoids
+
+MH  - Lymphocyte Activation Gene 3 Protein
+UI  - D000093322
+MN  - D12.776.465.806
+MN  - D12.776.543.750.705.12
+MN  - D12.776.543.750.705.222.844
+MN  - D23.50.301.264.894.121
+MN  - D23.101.100.894.121
+MS  - A CD4-related protein with high affinity cell surface binding to MHC class II. It functions in downregulation of T cell proliferation following binding to MHC class II molecules.
+HN  - 2023 (1992)
+BX  - Antigens, CD223
+BX  - CD223 Antigen
+BX  - Lymphocyte Activation Gene 3 Proteins
+FX  - Lymphocyte Activation
+
+MH  - Lysimachia
+UI  - D000093782
+MN  - B1.875.800.575.912.250.341.984.690
+MS  - A plant genus of the family  PRIMULACEAE. Lysimachia are used for  herbal medicinal purposes. Common name loosestrife refers to members of Lysimachia (e.g., yellow loosestrife) and another plant family Lythrum (purple loosestrife).
+HN  - 2023; use PRIMULACEAE 2004-2022
+BX  - Lysimachia vulgaris
+BX  - Steironema
+BX  - Yellow Loosestrife
+
+MH  - M Cells
+UI  - D000092303
+MN  - A10.615.550.522
+MN  - A11.436.578
+MS  - A distinct lineage of epithelial cells, present in MUCOSAL TISSUE, that is responsible for the immune sensing and capture of luminal bacteria and other microparticles. They deliver these microparticles, via TRANSCYTOSIS, to lymphoid tissue for efficient mucosal as well as systemic immune responses. Inflammation-induced M cells arising in response to inflammatory conditions may provide microbial access to tissues without normal M cell-associated immune surveillance tissue.
+HN  - 2023
+BX  - Airway M Cells
+BX  - BALT M Cells
+BX  - Bronchiolar M Cells
+BX  - Bronchus-Associated Lymphoid Tissue M Cells
+BX  - Colonic M Cells
+BX  - GALT M Cells
+BX  - Gut-Associated Lymphoid Tissue M Cells
+BX  - Intestinal Epithelial M cells
+BX  - Intestinal Villous M Cells
+BX  - M Cells, Bronchiolar
+BX  - M Cells, Intestinal
+BX  - MALT M Cells
+BX  - Microfold Cells
+BX  - Mucosa-Associated Lymphoid Tissue M Cells
+BX  - NALT M Cells
+BX  - Nasopharynx-Associated Lymphoid Tissue M Cells
+BX  - Peyer's Patch M Cells
+BX  - Tonsillar M Cells
+
+MH  - Maldives
+UI  - D000095164
+MN  - Z1.252.245.782.906
+MS  - Country in southern Asia, an island in the Indian Ocean. The capital is city of Male.
+HN  - 2023; use INDIAN OCEAN ISLANDS 1978-2022
+
+MH  - Matrines
+UI  - D000093842
+MN  - D3.132.722.500
+MS  - Tetracyclic bis-quinolizidine alkaloids found in the family LEGUMINOSAE, mainly in the genus SOPHORA.
+HN  - 2023(1982)
+BX  - Matrine
+BX  - Matrine Alkaloids
+BX  - Matrine, (5beta)-Isomer
+BX  - Matrine-type Alkaloids
+BX  - Sophoridine
+
+MH  - MDA-MB-231 Cells
+UI  - D000092302
+MN  - A11.251.210.190.660
+MN  - A11.251.860.180.630
+MS  - A human breast cancer cell line that was derived in 1973 from the MALIGNANT PLEURAL EFFUSION of a patient with stage III BREAST CARCINOMA and was characterized as being of breast cancer origin.
+HN  - 2023
+BX  - MDA-MB-134 Breast Cancer Cells
+BX  - MDA-MB-134 Breast Carcinoma Cells
+BX  - MDA-MB-231 Cell Line
+
+MH  - Medium Spiny Neurons
+UI  - D000094242
+MN  - A8.675.289.500
+MN  - A8.675.650.535
+MN  - A11.671.285.500
+MN  - A11.671.650.535
+MS  - Medium sized, inhibitory GABAergic neurons in the CORPUS STRIATUM with highly developed dendritic trees. They are divided into neurons expressing DOPAMINE D1 RECEPTORS which project preferentially to the SUBSTANTIA NIGRA PARS RETICULATA and neurons expressing DOPAMINE D2 RECEPTORS which project preferentially to the lateral part of the GLOBUS PALLIDUS. Medium spiny neurons are preferentially lost in HUNTINGTON DISEASE.
+HN  - 2023
+BX  - Striatal Medium-Sized Spiny Neurons
+FX  - Corpus Striatum
+
+MH  - Meibomitis
+UI  - D000092663
+MN  - C11.338.133.500
+MS  - An inflammation of MEIBOMIAN GLANDS.
+HN  - 2023
+BX  - Meibomianitis
+
+MH  - Microphysiological Systems
+UI  - D000094182
+MN  - A10.802.500
+MN  - E1.370.225.500.223.250.500
+MN  - E5.200.500.265.125.500
+MN  - E5.242.223.375.500
+MN  - E5.481.500.249.312.500
+MN  - E7.305.343.500.500
+MS  - Devices designed to recapitulate tissue or organ-level physiology and architect by combining MICROFLUIDICS; MICROFABRICATION; and 3D CELL CULTURE. Microphysiological systems mimic interconnections important in physiological or pathophysiological states of organ(s) and are often used for instance in HIGH THROUGHPUT SCREENING of drugs and factors important in disease modeling.
+HN  - 2023
+BX  - Organ Chips
+BX  - Organ-on-a-Chip
+BX  - Organ-on-a-Chip Devices
+BX  - Organoids-on-a-Chip
+BX  - Organotypic Cell Cultures
+BX  - Organotypic Cultures
+BX  - Organotypic Models
+FX  - Tissue Engineering
+
+MH  - Middle Eastern and North Africans
+UI  - D000094863
+MN  - M1.686.461
+MS  - People native to or inhabitants of the MIDDLE EAST and NORTH AFRICA.
+HN  - 2023
+BX  - MENAs
+
+MH  - Middle Eastern People
+UI  - D000094864
+MN  - M1.686.330.875.250
+MN  - M1.686.461.250
+MS  - People native to or inhabitants of MIDDLE EAST including BAHRAIN; IRAN; IRAQ; ISRAEL; JORDAN; KUWAIT; LEBANON; OMAN; PALESTINIAN TERRITORIES; QATAR; SAUDI ARABIA; SYRIA; TURKEY; UNITED ARAB EMIRATES; and YEMEN.
+HN  - 2023
+BX  - Middle Eastern Person
+BX  - Middle Easterners
+BX  - Near Easterners
+BX  - Southwestern Asian People
+BX  - Southwestern Asian Person
+BX  - Southwestern Asians
+
+MH  - Military Sexual Trauma
+UI  - D000094964
+MN  - F3.950.750.438.500
+MS  - Physical and psychological injuries resulting from SEXUAL VIOLENCE during MILITARY service.
+HN  - 2023
+
+MH  - Mixed Dementias
+UI  - D000093902
+MN  - C10.228.140.380.711
+MN  - F3.615.400.756
+MS  - Dementias caused by multiple etiologies, e.g., ALZHEIMER DISEASE, and VASCULAR DEMENTIA and/or LEWY BODY DISEASE.
+HN  - 2023
+BX  - Mixed-Etiology Dementias
+BX  - Multiple-Etiology Dementias
+
+MH  - Molar Hypomineralization
+UI  - D000094604
+MN  - C7.650.800.295.500.750
+MN  - C7.793.700.295.500.750
+MN  - C16.131.850.800.295.500.750
+MS  - A type of developmental disturbance of AMELOGENESIS involving MOLARS of any type (obligatory) plus other teeth sometimes. It is characterized by demarcated enamel opacities with unknown systemic causation (idiopathic).
+HN  - 2023; for MOLAR INCISOR HYPOMINERALIZATION use DENTAL ENAMEL HYPOPLASIA
+BX  - Incisor Hypomineralization
+
+MH  - Motion Capture
+UI  - D000092682
+MN  - E1.370.395.500
+MN  - E5.613
+MN  - L1.280.960.200
+MS  - Technological process of recording the MOTION and MOVEMENT of objects (e.g., surgical instrument in robotic surgery), body parts (e.g., EYE MOVEMENT), animals or people.
+HN  - 2023
+BX  - Biomechanical Movement Capture
+BX  - Magnetic Motion Capture
+BX  - MoCap Motion Capture
+BX  - Optical Motion Capture
+FX  - Motion Perception
+FX  - Wearable Electronic Devices
+
+MH  - Motorized Mobility Scooter
+UI  - D000093102
+MN  - E7.796.980.500
+MS  - A device ridden while seated that usually has three or four wheels, is typically propelled by an electric motor, and is used by those with limited or impaired mobility.
+HN  - 2023
+BX  - Motorized Scooter
+BX  - Scooter Motorized
+
+MH  - Multiomics
+UI  - D000095028
+MN  - H1.158.273.180.650
+MN  - L1.313.124.500
+MS  - The study of a variety of omic data (TRANSCRIPTOME; PROTEOME; METABOLOME; etc.) generated from the same biological source such as a cell type or organ during normal versus diseased states.
+HN  - 2023
+BX  - Multi-Omics
+
+MH  - Multiple Amputations, Traumatic
+UI  - D000092283
+MN  - C26.62.500
+MS  - The loss of part of, or all of, more than one limb, or other appendages of the body due to injury or disease.
+AN  - by accident or injury; do not confuse with MULTIPLE AMPUTATION, SURGICAL (see AMPUTATION, SURGICAL), a surgical procedure; /surg: consider also REPLANTATION
+HN  - 2023
+BX  - Amputations, Multiple, Traumatic
+BX  - Multi-Limb Amputations, Traumatic
+BX  - Multiple Extremity Amputations, Traumatic
+BX  - Multiple Limb Amputations, Traumatic
+
+MH  - Myotendinous Junction
+UI  - D000094364
+MN  - A2.734
+MS  - A specialized interface between muscle and tendon through which most contractile force is transmitted. It consists of elaborate surface folding called interdigitations involving EXTRACELLULAR MATRIX and terminal SARCOMERES.
+HN  - 2023
+BX  - Musculotendinous Junction
+
+MH  - Navajo People
+UI  - D000094684
+MN  - M1.270.968.500.600.531
+MN  - M1.686.477.250.600.531
+MS  - Southern Athabaskan-speaking Native American people generally associated with the Southwestern states. Navajo Nation is the largest Native American territory in the United States.
+HN  - 2023
+BX  - Dine Navajo
+BX  - Naabeeho People
+BX  - Navaho People
+BX  - Navajo Dine
+BX  - Navajo Indians
+BX  - Navajo Nation, Arizona, New Mexico, and Utah
+
+MH  - Nerve Conduction Studies
+UI  - D000092184
+MN  - E1.370.376.513
+MN  - E1.370.405.525
+MS  - Electrical tests to analyze the function of peripheral nerves by measuring various characteristics of NERVE CONDUCTION such as amplitude, velocity, and latency.
+HN  - 2023
+BX  - Electroneurographic Studies
+BX  - Electroneurography
+BX  - F-Wave Recording, Electroneurographic
+BX  - Nerve Conduction Tests
+BX  - Nerve Conduction Velocity Studies
+BX  - Nerve Conduction Velocity Tests
+
+MH  - Nociceptin Receptor
+UI  - D000094942
+MN  - D12.776.543.750.695.620.887
+MN  - D12.776.543.750.720.600.610.887
+MN  - D12.776.543.750.750.555.610.887
+MS  - A member of the opioid subfamily of the G PROTEIN-COUPLED RECEPTORS. It is the receptor for the endogenous neuropeptide nociceptin. It functions in modulating NOCICEPTION and the perception of pain.
+HN  - 2023 (1996)
+BX  - Kappa3-Related Opioid Receptor
+BX  - KOR-3 Protein
+BX  - MOR-C Protein
+BX  - Nociceptin Receptors
+BX  - OFQ Receptor
+BX  - OFQ Receptors
+BX  - Opiate Receptor-Like 1
+BX  - Opioid Receptor-Like Protein
+BX  - Opioid-Receptor-Like 1 Protein
+BX  - ORL1 Receptor
+BX  - ORL1 Receptors
+BX  - Orphanin FQ Receptor
+BX  - Orphanin FQ Receptors
+BX  - Receptor, Nociceptin
+BX  - Receptor, OFQ
+BX  - Receptor, Orphanin FQ
+BX  - Receptors, ORL1
+
+MH  - Non-Muscle Invasive Bladder Neoplasms
+UI  - D000093284
+MN  - C4.557.470.200.674
+MN  - C4.588.945.947.960.500
+MN  - C12.50.351.937.820.945.500
+MN  - C12.50.351.968.829.707.500
+MN  - C12.200.758.820.968.500
+MN  - C12.200.777.829.813.500
+MN  - C12.900.820.945.500
+MN  - C12.950.829.707.500
+MN  - C12.950.983.945.500
+MS  - A urothelial carcinoma found in the tissue that lines the inner surface of the bladder. The bladder muscle is not involved.
+HN  - 2023
+BX  - NMIBC
+BX  - Non-Muscle Invasive Bladder Cancer
+BX  - Non-Muscle-Invasive Bladder Cancer
+
+MH  - North African People
+UI  - D000094843
+MN  - M1.686.254.500
+MN  - M1.686.461.500
+MS  - People native to or inhabitants of NORTH AFRICA including ALGERIA; EGYPT; LIBYA; MOROCCO; TUNISIA and the CANARY ISLANDS.
+HN  - 2023
+BX  - Maghrebian People
+BX  - Maghrebians
+BX  - North African Person
+BX  - North Africans
+BX  - Northern African People
+BX  - Northern African Person
+BX  - Northern Africans
+
+MH  - North American People
+UI  - D000094858
+MN  - M1.686.477
+MS  - People native to or inhabitants of NORTH AMERICA.
+HN  - 2023
+BX  - North American Person
+BX  - North Americans
+
+MH  - North Asian People
+UI  - D000094852
+MN  - M1.686.330.625
+MS  - People native to or inhabitants of the NORTHERN ASIA including SIBERIA .
+HN  - 2023
+BX  - North Asian Person
+BX  - North Asians
+BX  - Northern Asian People
+BX  - Northern Asian Person
+BX  - Northern Asians
+BX  - Siberian People
+BX  - Siberians
+
+MH  - Obesity Paradox
+UI  - D000094408
+MN  - E5.318.740.600.800.725.500.750
+MN  - N5.715.350.200.700.500.750
+MN  - N5.715.360.750.625.700.700.500.750
+MN  - N6.850.490.625.750.500.750
+MN  - N6.850.520.830.600.800.725.500.750
+MS  - An observation that high BODY MASS INDEX is sometimes associated with lower CARDIOVASCULAR DISEASE mortality in certain population, e.g., ELDERLY.
+HN  - 2023
+BX  - BMI Paradox
+BX  - Body Mass Index Paradox
+
+MH  - Obstetricians
+UI  - D000094503
+MN  - M1.526.485.810.664
+MN  - N2.360.810.664
+MS  - Qualified medical professionals who specialize in OBSTETRICS.
+HN  - 2023
+
+MH  - Ocean Acidification
+UI  - D000094404
+MN  - G16.500.777
+MS  - Reduction in OCEAN WATER overall pH. Ocean acidification is linked to CORAL BLEACHING and may disturb other marine BIODIVERSITY.
+HN  - 2023
+BX  - Seawater Acidification
+
+MH  - Oceanians
+UI  - D000094862
+MN  - M1.686.493
+MS  - People native to or inhabitants of OCEANIA including MICRONESIA; MELANESIA; POLYNESIA; AUSTRALIA and NEW ZEALNAD.
+HN  - 2023(2004)
+BX  - Oceanian People
+BX  - Oceanic Ancestry Group
+
+MH  - Olecranon Fracture
+UI  - D000092470
+MN  - C26.88.134.500.750
+MN  - C26.88.268.807.500
+MN  - C26.404.20.250
+MN  - C26.404.937.773
+MS  - Fractures of the OLECRANON PROCESS at the ELBOW JOINT.
+HN  - 2023
+BX  - Fractures of the Olecranon Process
+BX  - Olecranon Fractures
+BX  - Olecranon Process Fracture
+BX  - Olecranon Process Fractures
+
+MH  - Olfactory Training
+UI  - D000094562
+MN  - E2.662
+MS  - A non-surgical and non-pharmacological exercise treatment designed to  manage OLFACTORY DISORDERS.
+HN  - 2023
+BX  - Olfactory Rehabilitation
+BX  - Smell Rehabilitation
+BX  - Smell Training
+
+MH  - Organizing Pneumonia
+UI  - D000092124
+MN  - C8.127.446.135.140.600
+MN  - C8.381.495.146.135.140.600
+MS  - Any obstructive lung disease characterized by consolidated formation of GRANULATION TISSUE polyps within ALVEOLAR DUCTS AND ALVEOLI. It is classified as either primary (cryptogenic organizing pneumonia) or secondary organizing pneumonia. Secondary organizing pneumonia after transplantation is called bronchiolitis obliterans syndrome.
+HN  - 2023
+BX  - Secondary Organizing Pneumonia
+
+MH  - Overtraining Syndrome
+UI  - D000095027
+MN  - C23.888.369.750
+MS  - An accumulation of training and/or non-training stress resulting in short-term decrement in performance capacity with or without related physiological and psychological signs and symptoms of maladaptation in which restoration of performance capacity may take from several weeks to several months.(from  Curr Sports Med Rep. May-Jun 2015;14(3):157-8)
+HN  - 2023
+BX  - Exercise Overtraining
+BX  - Over-Training Syndrome
+
+MH  - Pacific Island People
+UI  - D000095188
+MN  - M1.686.493.500.800
+MS  - Persons having origins in any of PACIFIC ISLANDS. Note that OMB category NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER is available for United States population groups. Race and ethnicity terms, as used in the federal government, are self-identified social construct and may include terms outdated and offensive in MeSH to assist users who are interested in retrieving comprehensive search results for studies such as in longitudinal studies.
+HN  - 2023
+BX  - Melanesian People
+BX  - Melanesians
+BX  - Micronesian People
+BX  - Micronesians
+BX  - Pacific Islanders
+BX  - Polynesian People
+BX  - Polynesians
+
+MH  - Pancreas Divisum
+UI  - D000092142
+MN  - C6.198.947
+MN  - C6.689.388
+MN  - C16.131.314.667
+MS  - Anatomic variants in PANCREATIC DUCTS characterized by failure of fusion of the ventral and dorsal endodermal buds. Pancreas divisum results in inadequate or no communication between dorsal and ventral ducts. While most cases are asymptomatic, it may be associated with recurrent PANCREATITIS.
+HN  - 2023
+BX  - Classic Pancreas Divisum
+BX  - Classic Pancreatic Divisum
+BX  - Complete Pancreas Divisum
+BX  - Complete Pancreatic Divisum
+BX  - Dominant Dorsal Duct Syndrome
+BX  - Incomplete Pancreas Divisum
+BX  - Incomplete Pancreatic Divisum
+BX  - Inverted Pancreas Divisum
+BX  - Pancreatic Divisum
+BX  - Reverse Pancreas Divisum
+BX  - Reverse Pancreatic Divisum
+
+MH  - Paramedicine
+UI  - D000094782
+MN  - H2.10.563
+MS  - A domain of practice and health profession that specialises across a range of settings including, but not limited to, emergency and primary care. Paramedics work in a variety of clinical settings such as EMERGENCY MEDICAL SERVICES, ambulance services, hospitals and clinics as well as non-clinical roles, such as education, leadership, public health and research. PARAMEDICS possess complex knowledge and skills, a broad scope of practice and are an essential part of the healthcare system. Depending on location, paramedics may practice under medical direction or independently, often in unscheduled, unpredictable or dynamic settings. (from J Multidiscip Healthc 2021 Dec 30;14:3561-3570)
+HN  - 2023
+BX  - Community Paramedicine
+BX  - Emergency Paramedicine
+FX  - Community Health Services
+FX  - Emergency Medical Technicians
+FX  - Emergency Medicine
+FX  - Paramedics
+
+MH  - Paramedics
+UI  - D000094783
+MN  - M1.526.373.575
+MN  - M1.526.485.67.718
+MN  - N2.360.67.715
+MS  - Health care workers who perform tasks which must otherwise be performed by a physician or other health professional, in a variety of clinical settings such as EMERGENCY MEDICAL SERVICES, ambulance services, hospitals and clinics as well as non-clinical roles, such as education, leadership, public health and research. Paramedics may practice under medical direction or independently, often in unscheduled, unpredictable or dynamic settings.
+HN  - 2023; use ALLIED HEALTH PERSONNEL 1984-2022
+BX  - Community Paramedics
+BX  - Emergency Paramedic
+BX  - Emergency Paramedics
+BX  - EMT-Paramedic
+BX  - Paramedical Personnel
+BX  - Paramedics, Emergency
+FX  - Paramedicine
+
+MH  - Partial Weight-Bearing
+UI  - D000093002
+MN  - G1.374.965.500
+MS  - The  state of supporting a body to simulate partial or applied load.
+HN  - 2023
+
+MH  - Patella Fracture
+UI  - D000092462
+MN  - C26.404.525.375
+MS  - Fractures of the PATELLA.
+HN  - 2023
+BX  - Kneecap Fractures
+
+MH  - Penetrating Atherosclerotic Ulcer
+UI  - D000094667
+MN  - C14.907.109.70.750
+MN  - C14.907.137.126.834
+MN  - C14.907.613
+MS  - Ulceration of the AORTA by an ATHEROSCLEROTIC PLAQUE by penetrating through and disrupting the internal elastic lamina of the TUNICA INTIMA.
+HN  - 2023
+BX  - Aortic Penetrating Ulcer
+BX  - Penetrating Aortic Ulcer
+BX  - Penetrating Ulcer
+BX  - Penetrating Ulcer Aorta
+
+MH  - Penile Transplantation
+UI  - D000093667
+MN  - E4.936.450.825.750
+MN  - E4.936.864.850.750
+MS  - Surgical transference of the PENIS (or the PENIS and SCROTUM together) as a complete organ and the composite of many tissue types, from one individual to another.
+HN  - 2023
+BX  - Penis Transplantation
+FX  - Phalloplasty
+
+MH  - Phalloplasty
+UI  - D000093562
+MN  - E4.617.575
+MS  - Surgery to restore, reconstruct, or improve the shape or appearance of a damaged, misshapen, or missing PENIS due to injury, disease, or developmental abnormalities.
+HN  - 2023
+BX  - Neophalloplasty
+BX  - Reconstructive Penile Surgery
+BX  - Reconstructive Penis Surgery
+FX  - Penile Transplantation
+
+MH  - Pharmacophore
+UI  - D000092165
+MN  - E5.599.595.750
+MS  - A three-dimensional representation of a molecule that is used for modeling recognition of ligands and macromolecular targets.
+HN  - 2023
+BX  - Pharmacophore Modeling
+
+MH  - Phytoalexins
+UI  - D000094162
+MN  - D23.946.618
+MS  - Secondary metabolites produced and accumulated by plants infected with microbial pathogen or otherwise under abiotic stress. Phytoalexins are structurally diverse but in common play a role in triggering PLANT SYSTEMIC ACQUIRED RESISTANCE.
+HN  - 2023(1976)
+BX  - Diterpenoid Phytoalexins
+BX  - Flavonoid Phytoalexins
+BX  - Indole Phytoalexins
+BX  - Isoflavonoid Phytoalexins
+BX  - Phytoalexin Metabolites
+BX  - Sesquiterpene Phytoalexins
+BX  - Terpenoid Phytoalexins
+FX  - Secondary Metabolism
+
+MH  - Phytosomes
+UI  - D000094764
+MN  - D25.479.709
+MN  - D26.255.260.825
+MN  - J1.637.51.479.709
+MN  - J1.637.87.500.709
+MS  - Lipid-based vesicular drug delivery systems that are structurally related to LIPOSOMES. Unlike LIPOSOMES, PHYTOSOMES have their active ingredient as a part of their lipid membrane itself.
+HN  - 2023
+
+MH  - Pima People
+UI  - D000094685
+MN  - M1.270.968.500.600.687
+MN  - M1.686.477.250.600.687
+MS  - OÊ¼odham-speaking Native American people generally associated with Southwestern Arizona.
+HN  - 2023
+BX  - Akimel O'odham People
+BX  - Akimel O'otham
+BX  - Akimel O'otham People
+BX  - Pima Indians
+
+MH  - Piwi-Interacting RNA
+UI  - D000094322
+MN  - D13.150.650.700.500
+MN  - D13.444.735.150.700.500
+MN  - D13.444.735.790.552.875.500
+MS  - A  class of small RNAs that are 24â€“31 nucleotides in length. They associate with  the PIWI SUBFAMILY OF ARGONAUTE PROTEINS to form effector complexes known as piRNA-induced silencing complexes, which repress transposons via transcriptional or posttranscriptional mechanisms and maintain germline genome integrity. In addition to their  role in transposon silencing, piRNAs in diverse organisms function in the regulation of cellular genes.
+HN  - 2023; use RNA,SMALL INTERFERING 2008-2022
+BX  - piRNAs
+BX  - RNA, Piwi-Interacting
+
+MH  - Plant Systemic Acquired Resistance
+UI  - D000094142
+MN  - G12.450.800.625
+MN  - G15.630.625
+MS  - A plant defense mechanism in which a plant pathogen-associated molecular pattern effector is detected through various receptors, e.g., PATTERN RECOGNITION RECEPTORS, which in turn induces fortified, primed defense in plant immune reaction. It confers long lasting and long distance plant immune defense against a broad spectrum of pathogens using various plant defense hormones or metabolites, e.g., SALICYLIC ACID and N-HYDROXYPIPECOLIC ACID, as signals to distant leaves for heightened immune state to counteract and limit subsequent infection.
+HN  - 2023
+BX  - Induced Systemic Resistance
+BX  - Systemic Acquired Resistance, Plant
+
+MH  - Platypnea Orthodeoxia Syndrome
+UI  - D000092129
+MN  - C8.618.326.698
+MN  - C23.888.852.79.898
+MN  - C23.888.852.371.698
+MS  - Orthostatic dyspnea and fall of oxygen blood saturation when standing up which regress by assuming lying position.
+HN  - 2023
+BX  - Orthodeoxia
+BX  - Platypnea-Orthodeoxia Syndrome
+BX  - POS Platypnea Orthodeoxia Syndrome
+BX  - POS Platypnea-Orthodeoxia Syndrome
+
+MH  - Polyhydroxybutyrates
+UI  - D000094122
+MN  - D5.750.78.789.500
+MN  - D5.750.728.890.500
+MN  - D10.751.500
+MS  - A thermostable biopolymer with repeating hydroxybutyryl units. It is typically the most abundant polyhydroxyalkanoate in microbes with PHA granules.
+HN  - 2023
+BX  - 3-Hydroxybutanoic Acid Homopolymers
+BX  - Poly(3-hydroxybutyrates)
+BX  - Poly(hydroxybutyrates)
+
+MH  - Polypoidal Choroidal Vasculopathy
+UI  - D000092342
+MN  - C11.941.160.244.500
+MN  - C23.550.589.500.145.500
+MS  - A CHOROID neovascularization characterized by serosanguineous retinal pigment epithelial detachment and leakage of serous exudate sometimes associated with aneurysmal polypoidal lesions.
+HN  - 2023
+BX  - Idiopathic Polypoidal Choroidal Vasculopathy
+BX  - Polypoidal Choroidal Neovascularization
+BX  - Polypoidal CNV
+
+MH  - Popliteal Artery Aneurysm
+UI  - D000094622
+MN  - C14.907.55.863
+MS  - An abnormal balloon- or sac-like dilatation in the wall of the POPLITEAL ARTERY located behind the KNEE JOINT.
+AN  - dissecting aneurysm: coordinate with DISSECTION, BLOOD VESSEL; rupture: coordinate with ANEURYSM, RUPTURED
+HN  - 2023
+BX  - Popliteal Aneurysm
+
+MH  - Population Groups, US
+UI  - D000095165
+MN  - M1.686.477.625
+MS  - Individuals classified according US federal government used for US federal data on race and ethnicity. Race and ethnicity terms are self-identified social construct. MeSH may contain outdated and offensive population terms only to assist users who are interested in retrieving comprehensive search results for studies such as in longitudinal studies.
+HN  - 2023
+BX  - US Population Groups
+
+MH  - Post-Acute COVID-19 Syndrome
+UI  - D000094024
+MN  - C1.748.610.763.500.500
+MN  - C1.925.705.500.500
+MN  - C1.925.782.600.550.200.163.500
+MN  - C8.381.677.807.500.500
+MN  - C8.730.610.763.500.500
+MN  - C23.550.291.500.829.375
+MS  - Post acute stage of COVID-19 virus infection. Persistent symptoms may include FATIGUE; DYSPNEA; and MEMORY LOSS.
+HN  - 2023(2020)
+BX  - Long COVID
+BX  - Long Haul COVID-19
+BX  - Long-Haul COVID
+BX  - Post Acute COVID-19 Syndrome
+BX  - Post-Acute Sequelae of SARS-CoV-2 Infection
+BX  - Post-COVID Conditions
+
+MH  - Post-Infectious Disorders
+UI  - D000094025
+MN  - C23.550.291.500.829
+MS  - Debilitating disorder characterized by fatigue and other symptoms related to cognitive, autonomous, and immune dysfunction experienced in the aftermath of infections.
+HN  - 2023
+BX  - Post Active Phase of Infection Syndrome
+BX  - Post Infectious Disorders
+BX  - Post-Infection Syndrome
+BX  - Post-Infectious Disease Syndrome
+
+MH  - PPAR-gamma Agonists
+UI  - D000092126
+MN  - D27.505.696.422.688
+MS  - Hypoglycemic agents that specifically target PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA. They increase tissue sensitivity to the insulin action and are used to treat TYPE 2 DIABETES MELLITUS.
+HN  - 2023
+BX  - Peroxisome Proliferator-Activated Receptor-gamma Agonist
+BX  - PPAR gamma Agonist
+BX  - PPAR-gamma Agonist
+
+MH  - Processing Speed
+UI  - D000094725
+MN  - F2.463.188.817
+MN  - F2.808.430
+MN  - F2.830.628
+MS  - The time it takes to understand and do a mental task. Unlike REACTION TIME processing speed does not necessarily include a motor component in response. Processing speed is tested by most NEUROPSYCHOLOGICAL TESTS.
+HN  - 2023
+BX  - Cognitive Processing Speed
+BX  - Mental Processing Speed
+BX  - Psychomotor Processing Speed
+BX  - Psychomotor Speed
+
+MH  - Prorenin Receptor
+UI  - D000093342
+MN  - D8.811.277.40.25.325.813
+MN  - D8.811.913.696.650.150.500.813
+MN  - D12.776.157.530.450.250.875.500.813
+MN  - D12.776.543.585.450.250.875.500.813
+MN  - D12.776.543.750.608
+MS  - Single-pass transmembrane receptor protein that plays an important role in ANGIOTENSIN II production and cellular responses to RENIN.
+HN  - 2023 (2002)
+BX  - (Pro)renin Receptor
+BX  - ATP6AP2 Protein
+BX  - Receptor, Prorenin
+BX  - Renin Receptor
+
+MH  - Proteolysis Targeting Chimera
+UI  - D000094243
+MN  - D27.720.470.410.210.500
+MS  - Bifunctional molecules that are designed to recruit E3 UBIQUITIN LIGASE to a specific target protein. Proteolysis targeting chimera consist of a target protein ligand connected via a linker to an E3 ligand. They promote association of E3 with specific target proteins tagged for degradation via the PROTEASOME.
+HN  - 2023
+BX  - Cereblon-Based Small-Molecule Compounds
+BX  - IAP-Based PROTACs
+BX  - MDM2 Protein-Based PROTACs
+BX  - Phospho-Dependent PROTACs
+BX  - PhosphoPROTACs
+BX  - PROTACs
+BX  - VHL-Based PROTACs
+
+MH  - Proteotoxic Stress
+UI  - D000094403
+MN  - G3.818
+MN  - G7.775.782
+MS  - Stressors and conditions which disturb PROTEOSTASIS. Dysfunctional responses to proteotoxic stress are associated with CELL DEATH; CELL SENESCENCE; Â CANCERÂ and PROTEINOPATHY.
+HN  - 2023
+BX  - Proteostasis Stress
+
+MH  - Proximal Femoral Fractures
+UI  - D000092526
+MN  - C26.404.61.425.500.500
+MN  - C26.404.61.856
+MN  - C26.531.750.500.500
+MN  - C26.558.276.425.500.500
+MS  - Fractures of the proximal FEMUR at the HIP.
+HN  - 2023
+BX  - Femoral Fractures, Proximal
+BX  - Femur Fractures, Proximal
+BX  - Proximal Femur Fractures
+
+MH  - Psychological Well-Being
+UI  - D000092862
+MN  - F1.145.677.500
+MN  - I1.800.500
+MN  - K1.752.400.750.500
+MN  - N6.850.505.400.425.837.500
+MS  - Condition of existence, or state of awareness, in which psychological needs are satisfied
+HN  - 2023
+BX  - Psychological Ill-Being
+BX  - Psychological Wellness
+
+MH  - Quinolizidine Alkaloids
+UI  - D000093843
+MN  - D3.132.722
+MN  - D3.633.100.834.737.250
+MS  - Alkaloids containing QUINOLIZIDINE ring structure. They are found in the genistoid legumes of FABACEAE (formerly Leguminosae) including genera LUPINUS and SOPHORA.
+HN  - 2023
+BX  - Lupin Quinolizidine Alkaloid
+BX  - Lupin Quinolizidine Alkaloids
+BX  - Lupine Quinolizidine Alkaloid
+BX  - Lupine Quinolizidine Alkaloids
+BX  - Quinolizidine Alkaloid
+
+MH  - Radial Head and Neck Fractures
+UI  - D000092467
+MN  - C26.88.134.500.875
+MN  - C26.88.268.556.500
+MN  - C26.404.20.500
+MN  - C26.404.562.678
+MS  - Fractures of the proximal head and/or neck of the RADIUS bone near the ELBOW JOINT.
+HN  - 2023
+BX  - Fracture of Head of Radius
+BX  - Fracture of Neck of Radius
+BX  - Fractures of Head of Radius
+BX  - Fractures of Neck of Radius
+BX  - Radial Head Fractures
+BX  - Radial Neck and Head Fractures
+BX  - Radial Neck Fractures
+
+MH  - Random Forest
+UI  - D000093743
+MN  - G17.35.812
+MN  - G17.162.500.500
+MN  - G17.162.750
+MN  - L1.224.50.843
+MS  - An algorithm used in decision analysis and MACHINE LEARNING that uses a set of trees to combine output of multiple, randomly generated DECISION TREES. The final class of each tree is aggregated and evaluated by weighted values to construct the final classifier.
+HN  - 2023
+BX  - Random Forest Algorithm
+BX  - Random Forest Classification
+
+MH  - Rapid Diagnostic Tests
+UI  - D000092025
+MN  - E1.370.225.989
+MN  - E5.200.989
+MN  - N4.590.874.500.625
+MS  - Diagnostic assays designed for use at the point-of-care (POC) that can be adapted for use in low-resource settings. These tests are low-cost, simple to operate and read, sensitive, specific, stable at high temperatures, and works in a short period of time.
+HN  - 2023
+BX  - Rapid Diagnostic Test
+BX  - Rapid Diagnostics
+
+MH  - Renin Inhibitors
+UI  - D000092502
+MN  - D27.505.519.389.745.753
+MS  - Agents that inhibit the activity of RENIN and cause VASODILATION.
+HN  - 2023
+BX  - Direct Renin Inhibitor
+BX  - Direct Renin Inhibitors
+BX  - Renin Inhibitor
+
+MH  - Residential Segregation
+UI  - D000093863
+MN  - I1.880.735.820.750
+MN  - N1.224.791.775.375
+MN  - N6.850.505.400.800.775.375
+MS  - Spatial separation of HOUSING within a geographic area based on racial, ethnic, nationality and other SOCIOECONOMIC FACTORS.
+HN  - 2023
+BX  - Gentrification
+BX  - Neighborhood Ethnic Composition
+BX  - Neighborhood Ethnic Racial Composition
+BX  - Neighborhood Racial Composition
+BX  - Neighborhood Racial Ethnic Composition
+
+MH  - Resource-Limited Settings
+UI  - D000092943
+MN  - N3.349.340.500
+MN  - N5.300.420.550
+MS  - Environments with barriers to quality critical care characterized by lack of epidemiological data and context-specific evidence for medical decision-making, deficiencies in health systems organization and resources, and institutional obstacles to implementation of life-saving interventions.
+HN  - 2023
+BX  - Resource Limited Areas
+BX  - Resource Limited Regions
+
+MH  - Ribosome Profiling
+UI  - D000094506
+MN  - E5.393.332.125
+MN  - E5.393.760.319.375
+MN  - E5.393.760.710.250
+MS  - A technique of mRNA sequence analysis that is used to determine which mRNAs are being actively translated. This technique relies on sequencing of RIBOSOME protected mRNA fragments (so-called ribosomal footprints) allowing the indication of the exact positions of ribosomes on transcripts.
+HN  - 2023
+BX  - Ribo-Seq
+BX  - Ribosome Footprinting
+BX  - Ribosome-Bound tRNA Capture
+BX  - Translating Ribosome Affinity Purification
+BX  - Translation Profiling
+
+MH  - Ribosome Shunting
+UI  - D000094409
+MN  - G2.111.660.871.650.500
+MN  - G3.734.871.650.500
+MN  - G5.297.670.500
+MN  - G5.308.385.500
+MS  - Viral mechanisms of translational programming in which ribosomes reach the start codon bypassing or shunting over large segments of the 5â€² UTR of  VIRAL RNA. Ribosome shunting allows host translational machinery to engage polycistronic transcripts similar to RIBOSOMAL FRAMESHIFTING, and use of INTERNAL RIBOSOME ENTRY SITES.
+HN  - 2023
+BX  - Ribosomal Shunting
+BX  - Shunting, Ribosome
+
+MH  - RNA Replication
+UI  - D000094405
+MN  - G2.111.770
+MN  - G5.769
+MN  - G6.920.925.470
+MS  - The process by which a VIRAL RNA molecule is duplicated.
+AN  - VIRUS REPLICATION is also available; consider also RNA, VIRAL /biosyn
+HN  - 2023
+FX  - RNA-Dependent RNA Polymerase
+FX  - RNA-Directed DNA Polymerase
+
+MH  - RNA, Guide, CRISPR-Cas Systems
+UI  - D000094704
+MN  - D13.444.735.790.552.563
+MS  - A component of CRISPR-Cas SYSTEMS. Cas endodeoxyribonucleases assemble with a guide RNA complex, a hybrid of CRISPR RNA (crRNA) and transactivating crRNA (tracrRNA) molecules, to form an active complex that cleaves DNA. crRNA and tracrRNA can be synthetically fused into a single RNA molecule, namely single guide RNA. Synthetic sgRNA is used with CRISPR-Cas SYSTEMS for targeted GENE EDITING.
+AN  - do not confuse with RNA, GUIDE, KINETOPLASTIDA; do not confuse sgRNA (SINGLE-GUIDE RNA) with sgRNA (SUBGENOMIC RNA)
+HN  - 2023
+BX  - CRISPR Guide RNA
+BX  - CRISPR-Cas Systems sgRNA (Single Guide RNA)
+BX  - crRNA
+BX  - crRNA, Transactivating
+BX  - Guide RNA (CRISPR-Cas Systems)
+BX  - Guide RNA, CRISPR-Cas Systems
+BX  - RNA, CRISPR Guide
+BX  - RNA, Guide (CRISPR-Cas Systems)
+BX  - RNA, Single Guide
+BX  - RNA, Single-Guide
+BX  - sgRNA (CRISPR-Cas Systems)
+BX  - sgRNA (Single-Guide RNA)
+BX  - Single Guide RNA
+BX  - Single-Guide RNA
+BX  - tracrRNA
+BX  - Transactivating crRNA
+FX  - CRISPR-Cas Systems
+
+MH  - Scandinavians and Nordic People
+UI  - D000094857
+MN  - M1.686.445.750
+MS  - People native to or inhabitants of the SCANDINAVIAN AND NORDIC COUNTRIES.
+HN  - 2023
+BX  - Nordic People
+BX  - Scandinavian People
+BX  - Scandinavians
+
+MH  - Schaffer Collaterals
+UI  - D000094282
+MN  - A8.186.211.180.405.800
+MN  - A8.186.211.200.885.287.500.345.800
+MN  - A8.675.542.145.875
+MN  - A11.284.180.75.624
+MN  - A11.671.501.145.875
+MS  - The main axon connection from the CA3 PYRAMIDAL CELL AREA to the CA1 PYRAMIDAL CELL AREA in the HIPPOCAMPUS. Schaffer collaterals are important in memory, learning and activity-related NEURONAL PLASTICITY.
+HN  - 2023(2015)
+BX  - Schaffer Collateral
+
+MH  - Schinus
+UI  - D000093382
+MN  - B1.875.800.575.912.250.44.686
+MS  - A plant genus of the family ANACARDIACEAE.
+HN  - 2023(2003)
+BX  - Peppertree, Brazilian
+BX  - Peppertree, California
+
+MH  - Schlemm's Canal
+UI  - D000092662
+MN  - A9.371.60.217.659.250
+MS  - A circular vascular-like structure in the anterior chamber of the eye bounded anterolaterally by the internal scleral sulcus and posteriorly by the trabecular meshwork. It is a part of a pathway where the AQUEOUS HUMOR from the ANTERIOR CHAMBER of the eye passes through the TRABECULAR MESHWORK, drains into the lumen of Schlemmâ€™s canal, and subsequently returns to blood circulation into the veins of the SCLERA.
+HN  - 2023
+BX  - Canal of Schlemm
+BX  - Circular Channel, Limbis
+BX  - Schlemm Canal
+BX  - Scleral Venous Sinus
+BX  - Sinus Venosus Sclerae
+
+MH  - Secondary Data Analysis
+UI  - D000094422
+MN  - E5.245.380.500
+MN  - E5.318.740.300.500
+MN  - H1.548.338.500
+MN  - L1.313.500.750.190.380.500
+MN  - N5.715.360.750.300.500
+MN  - N6.850.520.830.300.500
+MS  - Analysis or reanalysis of existing data collected by someone else usually  for a different purpose.
+HN  - 2023
+
+MH  - Secreted Frizzled-Related Proteins
+UI  - D000094742
+MN  - D12.644.360.813
+MN  - D12.776.476.800
+MS  - Soluble and secreted frizzled-related proteins which function as modulators of WNT SIGNALING PATHWAY.
+HN  - 2023
+BX  - sFRPS
+BX  - Soluble Frizzled-Related Proteins
+FX  - Frizzled Receptors
+
+MH  - Seminal Proteins
+UI  - D000094664
+MN  - D12.776.869
+MS  - Proteins found in semen. Seminal proteins are composed of SEMINAL PLASMA PROTEINS and SPERM PROTEINS.
+HN  - 2023
+BX  - Semen Proteins
+
+MH  - Septate Uterus
+UI  - D000093665
+MN  - C12.50.351.500.852.667.375
+MS  - A congenital duplication of the UTERUS in which a septum is formed separating the uterus. The partitioning septum can also separate the CERVIX and VAGINA.
+HN  - 2023
+BX  - Complete Septate Uteri
+BX  - Complete Septate Uterus
+BX  - Incomplete Septate Uterus
+BX  - Septate Uterus and Vagina
+BX  - Subseptate Uteri
+BX  - Subseptate Uterus
+BX  - Uterine Septum
+
+MH  - Sigesbeckia
+UI  - D000092664
+MN  - B1.875.800.575.912.250.100.808
+MS  - A plant genus of the family ASTERACEAE. It has been used in traditional herbal medicine and commonly referred to as St. Paul's wort. It produces an unpleasant smell and is sometimes referred to as pig pungent weed.
+HN  - 2023
+BX  - Siegesbeckia
+BX  - St. Paul's Wort
+
+MH  - Single-Cell Gene Expression Analysis
+UI  - D000092386
+MN  - E5.242.900.500
+MN  - E5.393.332.375
+MS  - Assaying the products of GENETIC TRANSCRIPTION in individual cells.
+AN  - for entry term SINGLE-CELL RNA-SEQ, coordinate with RNA-SEQ
+HN  - 2023
+BX  - Sc-RNAseq
+BX  - ScRNA-seq
+BX  - ScRNAseq
+BX  - Single Cell Gene Expression Analysis
+BX  - Single Cell Gene Expression Profiling
+BX  - Single Cell Transcriptome Analysis
+BX  - Single-Cell Gene Expression Profiling
+BX  - Single-Cell RNA Seq
+BX  - Single-Cell RNA-Seq
+BX  - Single-Cell RNAseq
+BX  - Single-Cell Transcriptome Analysis
+
+MH  - Sinistral Portal Hypertension
+UI  - D000094723
+MN  - C6.552.494.707
+MS  - Portal hypertension of the SPLENIC VEIN due to occlusion caused by pancreatic pathology such as PANCREATIC PSEUDOCYST and PANCRATIC CANCER. Sinistral portal hypertension is associated with GASTRIC VARICES and acute HEMATEMESIS.
+HN  - 2023
+BX  - Left-Sided Portal Hypertension
+BX  - Segmental Portal Hypertension
+
+MH  - Sleep Duration
+UI  - D000094362
+MN  - F2.830.855.703
+MN  - G11.561.803.189
+MS  - Total number of hours of sleep in a day.
+HN  - 2023
+BX  - Sleep Quantity
+BX  - Total Sleep Time
+
+MH  - Social Group
+UI  - D000092882
+MN  - I1.880.761.250
+MN  - N3.540.805
+MS  - A collection of two or more people who share a common identity as defined by beliefs, codes of conduct, CULTURE and SOCIAL NORMS.
+HN  - 2023
+BX  - Social Unit
+
+MH  - Socioeconomic Disparities in Health
+UI  - D000093862
+MN  - I1.240.425.513.500.500
+MS  - Differences in health based on socioeconomic status. Socioeconomic-based health disparities often begins early in life due to various SOCIOECONOMIC FACTORS, e.g. social, economic and educational statuses that limit potential or realized access to resources for maintaining health.
+AN  - SOCIAL DETERMINANTS OF HEALTH is available
+HN  - 2023
+BX  - Economic Disadvantage in Health
+BX  - Economic Disparities in Health
+BX  - Economic Disparity in Health
+BX  - Social Disadvantage in Health
+BX  - Social Disparities in Health
+BX  - Social Disparity in Health
+BX  - Socioeconomic Disadvantage
+BX  - Socioeconomic Disadvantage in Health
+BX  - Socioeconomic Disparities
+BX  - Socioeconomic Disparity
+
+MH  - Sophora japonica
+UI  - D000093846
+MN  - B1.875.800.575.912.250.401.734.750
+MS  - A member of the family FABACEAE, native to the FAR EAST and used in traditional medicine. Sophora japonica yellow flower bud and dried fruit extracts  are rich in FLAVONOIDS, e.g., SOPHORICOSIDE and RUTIN.
+HN  - 2023
+BX  - Chinese Scholar Tree
+BX  - Japanese Pagoda Tree
+BX  - Styphnolobium japonicum
+
+MH  - Sophora ï¬‚avescens
+UI  - D000093845
+MN  - B1.875.800.575.912.250.401.734.500
+MS  - A Sophora species commonly used as medicinal herb and is main source of quinolizidine alkaloid MATRINES. It is a perennial with yellow flowers.
+HN  - 2023
+BX  - Shrubby Sophora
+BX  - Sophora angustifolia
+
+MH  - South American People
+UI  - D000094860
+MN  - M1.686.685
+MS  - People native to or inhabitants of SOUTH AMERICA including ARGENTINA; BOLIVIA; BRAZIL; CHILE; COLOMBIA; ECUADOR; FRENCH GUIANA; GUYANA; PARAGUAY; PERU; SURINAME; URUGUAY; and VENEZUELA.
+HN  - 2023
+BX  - South Americans
+
+MH  - South Asian People
+UI  - D000094853
+MN  - M1.686.330.875.500
+MS  - People native to or inhabitants of SOUTHERN ASIA including AFGHANISTAN; BANGLADESH; BHUTAN; INDIA; MALDIVES; NEPAL; PAKISTAN and SRI LANKA
+HN  - 2023
+BX  - Asians, Southern
+BX  - South Asian Person
+BX  - South Asians
+BX  - Southern Asian People
+BX  - Southern Asian Person
+BX  - Southern Asians
+
+MH  - Southeast Asian People
+UI  - D000095224
+MN  - M1.686.330.750
+MS  - People native to or inhabitants of SOUTHEASTERN ASIA including BORNEO; BRUNEI; CAMBODIA; INDONESIA; LAOS; MALAYSIA; the MEKONG VALLEY; MYANMAR (formerly Burma), the PHILIPPINES; SINGAPORE; THAILAND; and VIETNAM. It includes people native or inhabitants of the MEKONG VALLEY.
+HN  - 2023; for BURMESE use ASIANS 2013-2022; for CAMBODIANS use ASIANS 2013-2022; for THAI use ASIANS 2013-2022; for VIETNAMESE use ASIANS 2013-2022
+BX  - Southeast Asians
+BX  - Southeastern Asian People
+BX  - Southeastern Asians
+
+MH  - Southern African People
+UI  - D000094847
+MN  - M1.686.254.750.875
+MS  - People native to or inhabitants of SOUTHERN AFRICA including ANGOLA; BOTSWANA; EWATINI; LESOTHO; MALAWI; MOZAMBIQUE; NAMIBIA; SOUTH AFRICA; ZAMBIA; and ZIMBABWE.
+HN  - 2023
+BX  - Southern African Person
+BX  - Southern Africans
+
+MH  - Sperm Proteins
+UI  - D000094323
+MN  - D12.776.869.500
+MS  - Proteins found in sperm. Sperm-specific proteins have important roles in FERTILIZATION including SPERM MOTILITY and SPERM-OVUM INTERACTIONS. Sperm-specific proteins are also important for early EMBRYO DEVELOPMENT.
+HN  - 2023
+BX  - Sperm Specific Proteins
+BX  - Sperm Tail Proteins
+BX  - Sperm-Specific Proteins
+BX  - Spermatozoa Proteins
+
+MH  - Sub-Saharan African People
+UI  - D000094844
+MN  - M1.686.254.750
+MS  - People native to or inhabitants of SUB-SAHARAN AFRICA includingÂ ANGOLA; BENIN; BOTSWANA; BURKINA FASO; BURUNDI; CABO VERDE; CAMEROON; CENTRAL AFRICAN REPUBLIC; CHAD; CONGO; COTE D'IVOIRE; DEMOCRATIC REPUBLIC OF THE CONGO; DJIBOUTI; EQUATORIAL GUINEA; ERITREA; ESWATINI; ETHIOPIA; GABON; GAMBIA; GHANA; GUINEA; GUINEA-BISSAU; KENYA; LESOTHO; LIBERIA; MALAWI; MALI; MAURITANIA; MOZAMBIQUE; NAMIBIA; NIGER; NIGERIA; RWANDA; SAO TOME AND PRINCIPE; SENEGAL; SIERRA LEONE; SOMALIA; SOUTH AFRICA; SOUTH SUDAN; SUDAN; TANZANIA; TOGO; UGANDA; ZAMBIA; and ZIMBABWE.
+HN  - 2023
+BX  - Sub-Saharan African Person
+BX  - Sub-Saharan Africans
+BX  - Sub-Saharans
+
+MH  - Subgenomic RNA
+UI  - D000094762
+MN  - D13.444.735.544.713
+MN  - D13.444.735.828.500
+MS  - RNA that results from VIRUS REPLICATION of partial genomic regions. The process may involve specific internal transcriptional initiation and termination sites.
+AN  - do not confuse sgRNA (SUBGENOMIC RNA) with sgRNA (SINGLE-GUIDE RNA see RNA, GUIDE, CRISPR-Cas SYSTEMS)
+HN  - 2023
+BX  - sgmRNA
+BX  - Subgenomic Messenger RNA
+BX  - Subgenomic mRNA
+BX  - Subgenomic Replicon
+BX  - Subgenomic Replicon RNA
+BX  - Subgenomic RNA Replicon
+FX  - CRISPR-Cas Systems
+
+MH  - Suicide Prevention
+UI  - D000092864
+MN  - F1.145.126.980.875.225
+MN  - I1.880.735.856.225
+MN  - N2.421.726.843
+MS  - Specific strategies for averting suicides. These include mental HEALTH PROMOTION and monitoring PSYCHOLOGICAL WELL-BEING and other intervention programs targeting susceptible individuals.
+HN  - 2023
+BX  - Suicide Awareness
+
+MH  - Symbiont Induced Cytoplasmic Incompatibility
+UI  - D000094402
+MN  - G6.462.95
+MN  - G16.527.200.95
+MS  - A naturally occurring reproductive phenomenon of INVERTEBRATES in which only certain combination of crosses result in viable embryos due to incompatibility between sperm and egg cells that is caused by differences in intracellular parasites (symbionts). For example, a maternally inherited symbiont bacteria, e.g., WOLBACHIA, induces changes in sperm of the host, causing mitotic defects in the fertilized embryo only in crosses between symbiotic males and females harboring a different or no symbiont.
+HN  - 2023
+
+MH  - Synthetic Cathinone
+UI  - D000094982
+MN  - D2.522.818.890
+MS  - A propiophenone derivative chemically related to cathinone, a substance found in the KHAT plant.
+HN  - 2023
+BX  - (3,4)-Methylenedioxypyrovalerone
+BX  - 3,4-Methylenedioxypyrovalerone
+BX  - MDPV
+BX  - MDPV Compound
+BX  - Methylenedioxypyrovalerone
+BX  - Psychoactive Bath Salts
+BX  - Synthetic Cathinones
+
+MH  - T-Cell Exhaustion
+UI  - D000094383
+MN  - G12.819
+MS  - Progressive deterioration of  T-cell function due to chronic antigen stimulation and inflammatory signals, e.g., CHRONIC INFECTION and CANCER. T-cell exhaustion is characterized by weakened immune system, e.g., dysfunctional MEMORY T CELLS differentiation and EPIGENETIC REPRESSION of IMMUNOLOGIC MEMORY effector functions.
+HN  - 2023
+BX  - T-Cell Senescence
+FX  - Lymphocyte Depletion
+
+MH  - Tattoo Removal
+UI  - D000092945
+MN  - E4.14.520.775
+MS  - Procedures to remove a tattoo. They may include laser surgery, excisional surgery, dermabrasion, or application of topical agents.
+HN  - 2023
+
+MH  - Theory of Planned Behavior
+UI  - D000092963
+MN  - E5.599.695.775
+MN  - F2.985
+MS  - The construct in which intentions to perform behaviors of different kinds can be predicted with high accuracy from attitudes toward the behavior, subjective norms, and perceived behavioral control; and these intentions, together with perceptions of behavioral control, account for considerable variance in actual behavior. (from Ajzen, Organizational Behavior and Human Decision Processes, V.50, Issue 2, p.179-211.)
+HN  - 2023
+BX  - Planned Behavior Theory
+BX  - Theory of Reasoned Action
+
+MH  - Thymic Stromal Lymphopoietin
+UI  - D000094632
+MN  - D12.644.276.374.656
+MN  - D12.776.467.374.656
+MN  - D23.529.374.656
+MS  - A pleiotropic cytokine involved in INFLAMMATION and immunoregulation. Thymic stromal lymphopoietin can activate MAST CELLS; DENDRITIC CELLS; and T-LYMPHOCYTES, and is produced by various cell types, including epithelial and dendritic cells..
+HN  - 2023
+BX  - TSLP Cytokine
+
+MH  - Tibial Plateau Fractures
+UI  - D000092463
+MN  - C26.404.525.500
+MN  - C26.404.875.500
+MN  - C26.558.554.625.500
+MN  - C26.558.857.500
+MS  - Fractures in the proximal portion of the TIBIA which acts as articular surface in the KNEE. They are often associated with knee ligament injuries (e.g., ACL TEARS).
+HN  - 2023
+BX  - Bicondylar Tibial Plateau Fracture
+BX  - Bicondylar Tibial Plateau Fractures
+BX  - Lateral Tibial Plateau Fracture
+BX  - Lateral Tibial Plateau Fractures
+BX  - Medial Tibial Plateau Fracture
+BX  - Medial Tibial Plateau Fractures
+
+MH  - Tobacco Control
+UI  - D000092843
+MN  - I1.655.500.608.400.825
+MN  - I1.880.604.825.608.400.825
+MN  - N3.623.500.608.428.825
+MS  - Policies, regulations and programs implemented to encourage SMOKING PREVENTION and reduce TOBACCO USE DISORDER by various measures, e.g., TOBACCO INDUSTRY regulation, SMOKE-FREE POLICY and SMOKE CESSATION programs .
+HN  - 2023
+BX  - Smoking Control Policy
+BX  - Smoking Policy
+BX  - Smoking Regulation
+BX  - Tobacco Policy
+BX  - Tobacco Program
+BX  - Tobacco Regulation
+
+MH  - Traditional Medicine Practitioners
+UI  - D000095083
+MN  - M1.526.485.882
+MN  - N2.360.858
+MS  - Health personnel using systems of medicine based on cultural beliefs and practices handed down from generation to generation, including mystical and magical rituals (SPIRITUAL THERAPIES); TRADITIONAL MEDICINE; PHYTOTHERAPY; HERBAL MEDICINE; and other treatments which may not be explained by modern medicine.
+HN  - 2023
+BX  - African Witch Doctor
+BX  - Alternative Medicine Practitioners
+BX  - CAM Practitioners
+BX  - Complementary and Alternative Medicine Practitioners
+BX  - Complementary Health Practitioners
+BX  - Complementary Medicine Practitioners
+BX  - Ethnobotanists
+BX  - Herbalists
+BX  - Indigenous Medicine Practitioners
+BX  - Medicine Men
+BX  - Phytotherapists
+BX  - Shaman
+BX  - Shamans
+BX  - Traditional Healers
+BX  - Traditional Health Practitioners
+BX  - Witch Doctor, African
+FX  - Medicine, African Traditional
+FX  - Medicine, Traditional
+FX  - Shamanism
+
+MH  - Trained Immunity
+UI  - D000094384
+MN  - G12.450.564.904
+MS  - Ability of the INNATE IMMUNITY system to form IMMUNOLOGIC MEMORY and provide enhanced defense against subsequent secondary infections. In trained immunity, long-term adaptation of innate immune cells occurs through EPIGENETIC PROCESSES and metabolic CELLULAR REPROGRAMMING to form long term immunologic memory.
+HN  - 2023
+BX  - Innate Immune Memory
+BX  - Innate Trained Immunity
+BX  - Trained Innate Immunity
+
+MH  - Transurethral Resection of Bladder
+UI  - D000094463
+MN  - E4.950.774.790
+MS  - Surgical removal of tumor in the BLADDER with resectoscope inserted through the URETHRA.
+HN  - 2023
+BX  - Transurethral Resection of Bladder Tumor
+BX  - TURBT Transurethral Resection of Bladder Tumor
+
+MH  - Tuberculosis, Extrapulmonary
+UI  - D000092225
+MN  - C1.150.252.410.40.552.846.617
+MS  - MYCOBACTERIUM infections of organs other than the lung.
+HN  - 2023
+BX  - Extra-Pulmonary Tuberculosis
+BX  - Extrapulmonary Tuberculosis
+
+MH  - Tympanosclerosis
+UI  - D000092163
+MN  - C9.218.951
+MS  - Calcification of the TYMPANIC MEMBRANE and MIDDLE EAR most often associated with chronic OTITIS MEDIA.
+HN  - 2023(2013)
+BX  - Intratympanic Tympanosclerosis
+BX  - Tympanic Calcification
+
+MH  - Tyrosine Protein Kinase Inhibitors
+UI  - D000092004
+MN  - D27.505.519.389.755.875
+MS  - Protein kinase inhibitors that inhibit TYROSINE PROTEIN KINASES.
+HN  - 2023
+BX  - TKI Tyrosine Kinase Inhibitors
+BX  - Tyrosine Kinase Inhibitor
+BX  - Tyrosine Kinase Inhibitors
+
+MH  - Ultrasonography, Carotid Arteries
+UI  - D000092262
+MN  - E1.370.350.850.708
+MS  - Ultrasound imaging of the CAROTID ARTERIES to measure their morphological components such as arterial wall shape and thickness; ATHEROSCLEROTIC PLAQUE; and STENOSIS. BLOOD CIRCULATION in the carotid is visualized via DOPPLER ULTRASONOGRAPHY.
+HN  - 2023
+BX  - Carotid Artery Ultrasonography
+BX  - Carotid Ultrasonography
+BX  - Carotid Ultrasound
+BX  - Ultrasonography of Carotid Arteries
+BX  - Ultrasonography of Carotid Artery
+BX  - Ultrasonography, Carotid Artery
+FX  - Carotid Arteries
+
+MH  - Urinary Sediment Analysis
+UI  - D000095025
+MN  - E1.370.225.124.810.500
+MN  - E1.370.390.810.500
+MN  - E5.200.124.810.500
+MS  - Microscopic visualization and/or chemical analysis of the sediments in URINE.
+HN  - 2023
+
+MH  - Urticaria, Solar
+UI  - D000092130
+MN  - C17.800.600.825
+MN  - C17.800.862.945.533.500.750
+MN  - C20.543.480.904.533.500.750
+MN  - C23.550.291.500.360.500.750
+MS  - Chromophore-dependent photodermatosis triggered by UV and visible light.
+HN  - 2023
+BX  - Solar Urticaria
+
+MH  - Uterine Didelphys
+UI  - D000093642
+MN  - C12.50.351.500.852.667.500
+MS  - An abnormality in which the MULLARIAN DUCTS do not properly join to form a single uterus during embryological development instead resulting in complete duplication of uterine horns and duplication of the cervix. Double uterus is associated with double cervix and vagina and sometimes renal agenesis.
+HN  - 2023
+BX  - Didelphic Uteri
+BX  - Double Uterus with Imperforated Vagina
+BX  - Uterus Didelphys with Imperforate Vagina
+BX  - Uterus Didelphys with Imperforated Vagina
+
+MH  - Uterine Duplication Anomalies
+UI  - D000093662
+MN  - C12.50.351.500.852.667
+MN  - C12.50.351.875.940
+MN  - C12.200.706.940
+MN  - C12.800.940
+MN  - C16.131.939.957
+MS  - A group of anomalies in which the UTERUS is duplicated due to abnormal fusion of the MULLERIAN DUCT during embryonic development.
+HN  - 2023
+BX  - Double Uterus
+BX  - Double Womb
+
+MH  - Value-Based Health Care
+UI  - D000093683
+MN  - N4.590.374.950
+MN  - N5.300.915
+MS  - Health system model designed to maximize value for patients. Value based healthcare often emphasizes better patient outcomes for healthcare cost through best practices (e.g., preventive screening, quality incentives).
+HN  - 2023
+BX  - Value Based Health Care
+BX  - Value Based Healthcare
+BX  - Value-Based Healthcare
+BX  - VBHC Value Based Healthcare
+
+MH  - Venom Hypersensitivity
+UI  - D000092422
+MN  - C20.543.480.952
+MS  - Allergic reaction to venoms in insect bites and stings that is triggered by the immune system (i.e., HISTAMINE RELEASE).
+HN  - 2023
+BX  - Allergy, Venom
+BX  - Arthropod Venom Allergy
+BX  - Arthropod Venom Hypersensitivity
+BX  - Bee Sting Allergy
+BX  - Bee Sting Anaphylaxis
+BX  - Bee Sting Hypersensitivity
+BX  - Fire Ant Sting Allergy
+BX  - Fire Ant Sting Hypersensitivity
+BX  - Honeybee Venom Allergy
+BX  - Hornet Sting Allergy
+BX  - Hornet Sting Hypersensitivity
+BX  - Hypersensitivity, Venom
+BX  - Insect Bite Papular Urticaria
+BX  - Insect Sting Allergy
+BX  - Insect Venom Allergy
+BX  - Jellyfish Sting Allergy
+BX  - Jellyfish Sting Hypersensitivity
+BX  - Venom Allergy
+BX  - Wasp Sting Allergy
+BX  - Wasp Sting Hypersensitivity
+
+MH  - Ventricular Outflow Obstruction, Left
+UI  - D000092242
+MN  - C14.280.955.875
+MS  - Occlusion of the outflow tract in the LEFT VENTRICLE of the heart.
+HN  - 2023(1988)
+BX  - Dynamic Left Ventricular Outflow Tract Obstruction
+BX  - Dynamic LVOT Obstruction
+BX  - Left Ventricular Outflow Tract Obstruction
+BX  - LVOT Obstruction
+
+MH  - Ventricular Outflow Obstruction, Right
+UI  - D000092243
+MN  - C14.280.955.937
+MS  - Occlusion of the outflow tract in the RIGHT VENTRICLE of the heart.
+HN  - 2023
+BX  - Dynamic Right Ventricular Outflow Tract Obstruction
+BX  - Dynamic RVOT Obstruction
+BX  - Right Ventricular Outflow Tract Obstruction
+BX  - RVOT Obstruction
+
+MH  - Volume Electron Microscopy
+UI  - D000094443
+MN  - E1.370.350.515.402.812
+MN  - E5.595.402.812
+MN  - L1.224.308.705
+MS  - Electron microscopy techniques designed to reconstruct 3-D images at micrometer volume scales at nanometer (nm) level resolutions. Volume electron microscopy uses various techniques to render, segment and reconstruct 3-D images from stacked sequential 2-D images of incremental z-planes.
+HN  - 2023
+BX  - FIB-SEM
+BX  - Focused Ion Beam Scanning Electron Microscopy
+BX  - Focused Ion Beam SEM
+BX  - SBF-SEM
+BX  - Serial Block-Face Scanning Electron Microscopy
+BX  - Serial Block-Face SEM
+BX  - Serial Sectioning TEM
+BX  - Serial Sectioning Transmission Electron Microscopy
+BX  - ssTEM
+BX  - vEM Volume Electron Microscopy
+BX  - Volume EM
+
+MH  - West African People
+UI  - D000094848
+MN  - M1.686.254.750.937
+MS  - People native to or inhabitants of WEST AFRICA (western part of the sub-Saharan Africa) including BENIN; BURKINA FASO; CABO VERDE; IVORY COAST; GAMBIA; GHANA; GUINEA; GUINEA-BISSAU; LIBERIA; MALI; MAURITANIA; NIGER; NIGERIA; SENEGAL; SIERRA LEONE; TOGO and CAPE VERDE ISLANDS.
+HN  - 2023
+BX  - West African Person
+BX  - West Africans
+BX  - Western African People
+BX  - Western African Person
+BX  - Western Africans
+
+MH  - West Asian People
+UI  - D000094865
+MN  - M1.686.330.875
+MS  - People native to or inhabitants of WESTERN ASIA including BANGLADESH; BHUTAN; INDIA; IRAN; IRAQ; ISRAEL; JORDAN; KUWAIT; LEBANON; MALDIVES; NEPAL; OMAN; PALESTINIAN TERRITORIES; PAKISTAN; QATAR; SAUIDI ARABIA; SRI LANKA; SYRIA; TURKEY; UNITED ARAB EMIRATES and YEMEN.
+HN  - 2023
+BX  - Asians, Western
+BX  - West Asian Person
+BX  - West Asians
+BX  - Western Asian People
+BX  - Western Asian Person
+BX  - Western Asians
+
+MH  - White
+UI  - D000095223
+MN  - M1.686.477.625.594.812
+MN  - M1.686.877.500
+MS  - A person having origins in any of the white racial groups of Europe, the Middle East and North Africa (https://www.federalregister.gov/documents/1997/10/30/97-28653/revisions-to-the-standards-for-the classification-of-federal-data-on-race-and-ethnicity). In the United States it is used for classification of federal government data on race and ethnicity. Race and ethnicity terms are self-identified social construct and may include terms outdated and offensive in MeSH to assist users who are interested in retrieving comprehensive search results for studies such as in longitudinal studies.
+HN  - 2023; use CAUCASIAN RACE 1963-1977, WHITES 1978-2003, CAUCASOID RACE 1978-2003, EUROPEAN CONTINENTAL ANCESTRY GROUP 2004-2021, WHTIES 2022
+BX  - Whites
+
+MH  - Wildlife Trade
+UI  - D000094462
+MN  - I3.915
+MS  - Commerce of non-domesticated WILD ANIMALS or plants. Wildlife trade, particularly illegal trades, threaten ECOSYSTEMS and drives up SPECIES EXTINCTION. It also increases chance of emerging ZOONOSES.
+HN  - 2023
+BX  - Wildlife Poaching
+BX  - Wildlife Trafficking
+FX  - Crime
+
+MH  - Working Conditions
+UI  - D000092922
+MN  - N1.824.245.925.500
+MN  - N4.452.677.975.500
+MS  - Conditions of a WORKPLACE such as weather (e.g., indoor or outdoor), safety (e.g., exposure to hazardous materials), environment and workplace culture and management style.
+HN  - 2023
+BX  - Work Environment
+BX  - Working Condition
+BX  - Working Environment
+BX  - Workplace Condition
+BX  - Workplace Conditions
+BX  - Workplace Environment
+
+MH  - Wrist Fractures
+UI  - D000092503
+MN  - C26.88.906.500
+MN  - C26.404.968
+MS  - Fractures of the CARPAL BONES, the distal ULNA and/or RADIUS at the WRIST.
+HN  - 2023
+BX  - Distal Forearm Fractures
+BX  - Distal Radius and Ulna Fractures
+BX  - Distal Radius Fractures
+BX  - Distal Ulna and Radius Fractures
+BX  - Distal Ulna Fractures
+BX  - Radial Styloid Fractures
+BX  - Smith Fracture
