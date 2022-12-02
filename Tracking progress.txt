@@ -1,34 +1,19 @@
-2020
-New MeSH (Done)
-LCSH updates (Done)
-
 2021
 New MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/meshnew2021.txt)
 #-D - Galter (Tony)
-E-F - Galter (Gretchen - done)
-G-I - Galter (Gretchen - done)
-J-L - Galter (Gretchen - done)
-M-O - Galter (Gretchen - done)
-P-R - Galter (Gretchen - done)
-S-T - Galter (Lindsey -  done)
 U-Z - Galter (Violet)
 
-Revised MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/replace2021.txt) - Galter (Gretchen - done)
-
-LCSH updates (Done)
-
-2022 
-MeSH (generally held for Galter)
-New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/MeSH%202021%20files/MeSH%202021%20NEW)
+2022 MeSH (generally held for Galter)
+New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2022)
 #-B
 C-D
 E-H
 I-N
 O-R
 S-Z
-Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/MeSH%202021%20files/MeSH%202021%20REPLACE) - Galter (Gretchen)
+Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2022)
 
-LCSH updates (generally held for NLM)
+2022 LCSH updates (generally held for NLM)
 January (https://classweb.org/approved-subjects/2201.html)
 February (https://classweb.org/approved-subjects/2202.html)
 March (https://classweb.org/approved-subjects/2203.html)
@@ -39,3 +24,12 @@ July (https://classweb.org/approved-subjects/2207.html)
 August (https://classweb.org/approved-subjects/2208.html)
 (September-December not published as of 11/29/22)
 
+2023 MeSH (generally held for Galter)
+New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2023)
+#-B
+C-D
+E-H
+I-N
+O-R
+S-Z
+Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2023)
