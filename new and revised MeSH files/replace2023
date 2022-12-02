@@ -1,0 +1,145 @@
+Source: https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/newterms/
+
+File write open
+MH Changes and deletes
+
+# = delete
+[] = new status of old term (P = EP; N = EN or PT; C = SCR term; M = MH; null = old term not in New MeSH)
+* = old term in a different record than the new term
+
+D001741
+MH OLD = African Americans [P]
+MH NEW = Black or African American
+
+D055964
+MH OLD = Alien Hand Syndrome [P]
+MH NEW = Alien Limb Phenomenon
+
+D000086562
+MH OLD = American Indians or Alaska Natives # [P] (delete this heading - merged with D044467)
+MH NEW = American Indian or Alaska Native
+
+D044467 (note: should have been changed in 2022 revisions)
+MH OLD = American Native Continental Ancestry Group [P]
+MH NEW = American Indian or Alaska Native
+
+D000671
+MH OLD = Amputation [P]
+MH NEW = Amputation, Surgical
+
+D000784
+MH OLD = Aneurysm, Dissecting [P]
+MH NEW = Aortic Dissection
+
+D001213
+MH OLD = Asian Americans [P]
+MH NEW = Asian
+
+D044466 (note: should have been changed in 2022 revisions)
+MH OLD = Asians [N*]
+MH NEW = Asian People
+
+D044383 (note: should have been changed in 2022 revisions)
+MH OLD = Blacks [P*]
+MH NEW = Black People
+
+D002578
+MH OLD = Cervical Intraepithelial Neoplasia # [P] (note: this term is deleted, but it doesn't appear to have been mapped previously)
+MH NEW = Uterine Cervical Dysplasia
+
+D005202
+MH OLD = Far East [P]
+MH NEW = Asia, Eastern
+
+D006442
+MH OLD = Glycated Hemoglobin A [N]
+MH NEW = Glycated Hemoglobin
+
+D006476
+MH OLD = Hantavirus [P]
+MH NEW = Orthohantavirus
+
+D000091202 (note: should have been changed in 2022 new terms)
+MH OLD = Health Disparity, Minority and Vulnerable Populations [P]
+MH NEW = Health Disparate, Minority and Vulnerable Populations
+
+D006703
+MH OLD = Homeless Persons [P]
+MH NEW = Ill-Housed Persons
+
+D004930
+MH OLD = Inuits [P]
+MH NEW = Inuit
+
+D052196
+MH OLD = Lactobacillus brevis [P]
+MH NEW = Levilactobacillus brevis
+
+D007780
+MH OLD = Lactobacillus casei [P]
+MH NEW = Lacticaseibacillus casei
+
+D052197
+MH OLD = Lactobacillus fermentum [P]
+MH NEW = Limosilactobacillus fermentum
+
+D000069980
+MH OLD = Lactobacillus paracasei [N]
+MH NEW = Lacticaseibacillus paracasei
+
+D052200
+MH OLD = Lactobacillus reuteri [P]
+MH NEW = Limosilactobacillus reuteri
+
+D052201
+MH OLD = Lactobacillus rhamnosus [P]
+MH NEW = Lacticaseibacillus rhamnosus
+
+D000070256
+MH OLD = Lactobacillus sakei [N]
+MH NEW = Latilactobacillus sakei
+
+D000069996
+MH OLD = Lactobacillus salivarius [N]
+MH NEW = Ligilactobacillus salivarius
+
+D018551
+MH OLD = Lycopersicon esculentum [P]
+MH NEW = Solanum lycopersicum
+
+D019651
+MH OLD = Reconstructive Surgical Procedures [P]
+MH NEW = Plastic Surgery Procedures
+
+D017394
+MH OLD = RNA, Guide []
+MH NEW = RNA, Guide, Kinetoplastida
+
+D045473
+MH OLD = SARS Virus [P]
+MH NEW = Severe acute respiratory syndrome-related coronavirus
+
+D017367
+MH OLD = Serotonin Uptake Inhibitors [P]
+MH NEW = Selective Serotonin Reuptake Inhibitors
+
+D062065
+MH OLD = Waste Water [P]
+MH NEW = Wastewater
+
+D000095223 (note: should have been changed in 2022 revisions)
+MH OLD = Whites [P*]
+MH NEW = White People
+
+D000073359
+MH OLD = Whole Exome Sequencing [N]
+MH NEW = Exome Sequencing
+
+D000070380
+MH OLD = Xanthorrhoeaceae [N]
+MH NEW = Asphodelaceae
+
+
+Total replaced     = 31
+Total deleted      = 2
+Total without YE   = 0
