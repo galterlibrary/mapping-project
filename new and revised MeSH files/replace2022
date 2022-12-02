@@ -1,0 +1,116 @@
+Source: https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/newterms/
+File write open
+MH Changes and deletes
+
+# = delete
+[] = new status of old term (P = EP; N = EN or PT; C = SCR term; M = MH; null = old term not in New MeSH)
+* = old term in a different record than the new term
+
+D044383
+MH OLD = African Continental Ancestry Group [P]
+MH NEW = Blacks
+NOTE: see 2023 changes
+MH NEW = Black People
+
+D044467
+MH OLD = American Natives [P]
+MH NEW = American Indians or Alaska Natives
+NOTE: see 2023 changes
+MH NEW = American Indian or Alaska Native
+
+D046869
+MH OLD = Anabaena flos-aquae [P]
+MH NEW = Dolichospermum flos-aquae
+
+D000075803
+MH OLD = Angiopoietin-like 4 Protein []
+MH NEW = Angiopoietin-Like Protein 4
+
+D044466
+MH OLD = Asian Continental Ancestry Group [P]
+MH NEW = Asians
+NOTE: see 2023 changes
+MH NEW = Asian People
+
+D048149
+MH OLD = Casein Kinase Iepsilon [P]
+MH NEW = Casein Kinase 1 epsilon
+
+D004490
+MH OLD = Cingulata [P]
+MH NEW = Xenarthra
+
+D044469
+MH OLD = Continental Population Groups [P]
+MH NEW = Racial Groups
+
+D003765
+MH OLD = Dental Models [P]
+MH NEW = Models, Dental
+
+D004442
+MH OLD = Echidna [P]
+MH NEW = Tachyglossidae
+
+D000080309
+MH OLD = Environmental DNA [P]
+MH NEW = DNA, Environmental
+
+D005006
+MH OLD = Ethnic Groups [P]
+MH NEW = Ethnicity
+
+D000095223
+MH OLD = European Continental Ancestry Group [P]
+MH NEW = Whites
+NOTE: see 2023 changes
+MH NEW = White People
+
+D000074421
+MH OLD = Fermented Foods and Beverages [P]
+MH NEW = Fermented Foods
+
+D027841
+MH OLD = Genus Pimenta []
+MH NEW = Pimenta
+
+D006630
+MH OLD = Hispanic Americans [P]
+MH NEW = Hispanic or Latino
+
+D006796
+MH OLD = Housekeeping [P]
+MH NEW = Household Work
+
+D007165
+MH OLD = Immunosuppression [P]
+MH NEW = Immunosuppression Therapy
+
+D007312
+MH OLD = Insectivora [P]
+MH NEW = Eulipotyphla
+
+D016547
+MH OLD = Kinesin [P]
+MH NEW = Kinesins
+
+D044468
+MH OLD = Oceanic Ancestry Group [P]
+MH NEW = Native Hawaiian or Other Pacific Islander
+
+D017346
+MH OLD = Protein-Serine-Threonine Kinases [P]
+MH NEW = Protein Serine-Threonine Kinases
+
+D011695
+MH OLD = Purpura, Schoenlein-Henoch [P]
+MH NEW = IgA Vasculitis
+
+D057170
+MH OLD = Translational Medical Research [P]
+MH NEW = Translational Research, Biomedical
+
+
+Total replaced     = 24
+Total deleted      = 0
+Total without YE   = 0
