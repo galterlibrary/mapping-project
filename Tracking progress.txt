@@ -14,7 +14,7 @@ S-Z
 Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2022)
 
 2022 LCSH updates (generally held for NLM)
-January (https://classweb.org/approved-subjects/2201.html)
+January (https://classweb.org/approved-subjects/2201.html) - Karen
 February (https://classweb.org/approved-subjects/2202.html)
 March (https://classweb.org/approved-subjects/2203.html)
 April (https://classweb.org/approved-subjects/2204.html)
