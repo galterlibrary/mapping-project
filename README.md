@@ -17,12 +17,13 @@ The authority records with the mapping data are available for download from this
 
 All of the records are in the MARC 21 Authority Format. In addition to the 750, 780, and 788 fields with the mapping data, the following local fields will be present in many of the authority records:
 
-- 001 Field: Northwestern library management system record number
+- 001 Field: Local library management system record number
 - 035 Field: In some records a Northwestern former library management system record number
 - 550 Fields: In MeSH records with broader and narrower terms (generated from the MeSH tree numbers)
 - 690 Field: In some records a local note
+- 930 Field: In some records a local responsibility note
 
-The mapping data is kept current by staff of the Galter Health Sciences Library and other collaborators. They review the annual MeSH additions, changes, and deletions, and the weekly LCSH additions, changes, and deletions, and update the mapping data as needed.
+The mapping data is kept current by staff of the Galter Health Sciences Library and the National Library of Medicine. They review the annual MeSH additions, changes, and deletions, and the weekly LCSH additions, changes, and deletions, and update the mapping data as needed.
 
 Although the authority records have been reviewed for accuracy, there may still be errors. Also other users of these records may disagree with some of the mapping decisions that have been made. We welcome any questions, corrections, comments and suggestions for improvement.
 
@@ -31,4 +32,4 @@ Project documentation, including scope limitations, instructions for adding mapp
 
 For a complete description of the project's history, and more details about the authority records, see the article by Tony Olson and Gary Strawn: "Mapping the MeSH and LCSH Systems." Information Technology and Libraries, 16(1) (March 1997) p.5-19.
 
-Please contact [Gretchen Neidhardt](mailto:gretchen.neidhardt@northwestern.edu), Metadata and Digital Projects Librarian, with your queries, or if you would like to be added to the project's listserv to stay updated the latest project developments.
+Please contact [Violet Fox](mailto:violet.fox@northwestern.edu), Cataloging and Metadata Librarian, with your queries, or if you would like to be added to the project's listserv to stay updated the latest project developments.
