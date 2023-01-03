@@ -22,7 +22,13 @@ May (https://classweb.org/approved-subjects/2205.html) -- Phyllis
 June (https://classweb.org/approved-subjects/2206.html)
 July (https://classweb.org/approved-subjects/2207.html)
 August (https://classweb.org/approved-subjects/2208.html)
-(September-December not published as of 11/29/22) 
+September (https://classweb.org/approved-subjects/2209.html)
+October (https://classweb.org/approved-subjects/2210.html)
+October Expedite (https://classweb.org/approved-subjects/2210e.html)
+November Expediite (https://classweb.org/approved-subjects/2211e.html)
+December Expedite (https://classweb.org/approved-subjects/2212e.html)
+2022 Changed/Deleted LCSH - Sharon will review all months for these
+
 
 2023 MeSH (generally held for Galter)
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2023)
