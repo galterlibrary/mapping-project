@@ -7,7 +7,7 @@ U-Z - Galter (Violet)
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2022)
 #-B (Gretchen - done with some questions in Issue #8)
 C-D (Lindsey)
-E-H (Gretchen)
+E-H (Gretchen - done with some questions in Issue #9)
 I-N (Gretchen)
 O-R
 S-Z
