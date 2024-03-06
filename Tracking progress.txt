@@ -43,3 +43,22 @@ I-N
 O-R
 S-Z
 Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2023)
+
+
+
+2023 LCSH updates (generally held for NLM)
+January https://classweb.org/approved-subjects/2301.html - 
+January Expedite https://classweb.org/approved-subjects/2301e.html - 
+February https://classweb.org/approved-subjects/2302.html -
+February Expedite https://classweb.org/approved-subjects/2302e.html - 
+March https://classweb.org/approved-subjects/2303.html - 
+April https://classweb.org/approved-subjects/2304.html - 
+April 02 https://classweb.org/approved-subjects/2304a.html - 
+May https://classweb.org/approved-subjects/2305.html - 
+June https://classweb.org/approved-subjects/2306.html - 
+July https://classweb.org/approved-subjects/2307.html - 
+August https://classweb.org/approved-subjects/2308.html - 
+August 02 https://classweb.org/approved-subjects/2308a.html -
+September https://classweb.org/approved-subjects/2309.html -
+October https://classweb.org/approved-subjects/2310.html - 
+October 02 https://classweb.org/approved-subjects/2310a.html - 
