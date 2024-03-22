@@ -48,7 +48,7 @@ Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%2
 
 2023 LCSH updates (generally held for NLM)
 January https://classweb.org/approved-subjects/2301.html - Christine
-January Expedite https://classweb.org/approved-subjects/2301e.html - 
+January Expedite https://classweb.org/approved-subjects/2301e.html - Christine
 February https://classweb.org/approved-subjects/2302.html -
 February Expedite https://classweb.org/approved-subjects/2302e.html - 
 March https://classweb.org/approved-subjects/2303.html - 
