@@ -8,8 +8,8 @@ New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and
 #-B (Gretchen - done with some questions in Issue #8)
 C-D (Lindsey)
 E-H (Gretchen - done with some questions in Issue #9)
-I-N (Gretchen)
-O-R
+I-N (Gretchen - done with some questions in Issue #10)
+O-R (Gretchen)
 S-Z
 Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2022) (Gretchen - done)
 
