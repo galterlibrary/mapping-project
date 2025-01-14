@@ -1,0 +1,83 @@
+https://nlmpubs.nlm.nih.gov/projects/mesh/2024/newterms/replace2024.txt
+
+File write open
+MH Changes and deletes
+
+# = delete
+[] = new status of old term (P = EP; N = EN or PT; C = SCR term; M = MH; null = old term not in New MeSH)
+* = old term in a different record than the new term
+
+
+MH OLD = 2,5-Dimethoxy-4-Methylamphetamine [P]
+MH NEW = DOM 2,5-Dimethoxy-4-Methylamphetamine
+
+MH OLD = Biopterin [P]
+MH NEW = Biopterins
+
+MH OLD = Castor Bean [P]
+MH NEW = Ricinus communis
+
+MH OLD = Chicory [P]
+MH NEW = Cichorium intybus
+
+MH OLD = Cyclophilin D []
+MH NEW = Peptidyl-Prolyl Isomerase F
+
+MH OLD = Extreme Cold Weather [P]
+MH NEW = Extreme Cold
+
+MH OLD = Extreme Hot Weather # [P]
+MH NEW = Extreme Heat
+
+MH OLD = Ginger [P]
+MH NEW = Zingiber officinale
+
+MH OLD = Health Disparate, Minority and Vulnerable Populations [P]
+MH NEW = Health Disparate Minority and Vulnerable Populations
+
+MH OLD = Hyalinosis, Systemic [P]
+MH NEW = Hyaline Fibromatosis Syndrome
+
+MH OLD = Influenzavirus A [P]
+MH NEW = Alphainfluenzavirus
+
+MH OLD = Influenzavirus B [P]
+MH NEW = Betainfluenzavirus
+
+MH OLD = Influenzavirus C [P]
+MH NEW = Gammainfluenzavirus
+
+MH OLD = Lettuce [P]
+MH NEW = Lactuca
+
+MH OLD = Lysosome-Associated Membrane Glycoproteins [P]
+MH NEW = Lysosomal Membrane Proteins
+
+MH OLD = Milk Thistle [P]
+MH NEW = Silybum marianum
+
+MH OLD = Monkeypox [P]
+MH NEW = Mpox (monkeypox)
+
+MH OLD = Peas [P]
+MH NEW = Pisum sativum
+
+MH OLD = Phaeophyta [P]
+MH NEW = Phaeophyceae
+
+MH OLD = Russell's Viper [P]
+MH NEW = Daboia
+
+MH OLD = Soybeans [P]
+MH NEW = Glycine max
+
+MH OLD = Tobacco []
+MH NEW = Nicotiana
+
+MH OLD = Tyrosine Protein Kinase Inhibitors [P]
+MH NEW = Tyrosine Kinase Inhibitors
+
+
+Total replaced     = 22
+Total deleted      = 1
+Total without YE   = 0
