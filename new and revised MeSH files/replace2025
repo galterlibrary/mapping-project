@@ -1,0 +1,108 @@
+https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/newterms/replace2025.txt
+
+MH Changes and deletes
+ 
+# = delete
+[] = new status of old term (P = EP; N = EN or PT; C = SCR term; M = MH; null = old term not in New MeSH)
+* = old term in a different record than the new term
+ 
+MH OLD = Abortion, Criminal [N]
+MH NEW = Abortion, Illegal
+ 
+MH OLD = Urodela [P]
+MH NEW = Caudata
+ 
+MH OLD = Channa punctatus [P]
+MH NEW = Channa punctata
+ 
+MH OLD = Disabled Children [P]
+MH NEW = Children with Disabilities
+ 
+MH OLD = Commitment of Mentally Ill [P]
+MH NEW = Commitment of Persons with Psychiatric Disorders
+ 
+MH OLD = Communication Aids for Disabled [N]
+MH NEW = Communication Devices for People with Disabilities
+ 
+MH OLD = Dental Care for Disabled [P]
+MH NEW = Dental Care for Persons with Disabilities
+ 
+MH OLD = Fibromatosis, Aggressive [N]
+MH NEW = Desmoid Tumors
+ 
+MH OLD = Education of Hearing Disabled [N]
+MH NEW = Education of Persons with Hearing Disabilities 
+
+MH OLD = Education of Intellectually Disabled [N]
+MH NEW = Education of Persons with Intellectual Disabilities
+ 
+MH OLD = Education of Visually Disabled [N]
+MH NEW = Education of Persons with Visual Disabilities
+ 
+MH OLD = Sex Reassignment Procedures [N]
+MH NEW = Gender-Affirming Procedures
+ 
+MH OLD = Sex Reassignment Surgery [N]
+MH NEW = Gender-Affirming Surgery
+
+MH OLD = Surrogate Mothers [N]
+MH NEW = Gestational Carriers
+ 
+MH OLD = Health Care Facilities, Manpower, and Services [N]
+MH NEW = Health Care Facilities Workforce and Services
+ 
+MH OLD = Medicine, Persian [P]
+MH NEW = Medicine, Iranian Traditional
+ 
+MH OLD = Mpox (monkeypox) [N]
+MH NEW = Mpox, Monkeypox
+ 
+MH OLD = Native Hawaiian or Other Pacific Islander [N]
+MH NEW = Native Hawaiian or Pacific Islander
+ 
+MH OLD = Lymphatic Vessel Tumors [N]
+MH NEW = Neoplasm, Lymphatic Tissue
+ 
+MH OLD = Network Meta-Analysis [M*]
+MH NEW = Network Meta-Analysis as Topic
+ 
+MH OLD = Disabled Persons [P]
+MH NEW = Persons with Disabilities
+ 
+MH OLD = Persons With Hearing Impairments [N]
+MH NEW = Persons with Hearing Disabilities
+ 
+MH OLD = Persons with Mental Disabilities [N]
+MH NEW = Persons with Intellectual Disabilities
+
+MH OLD = Mentally Ill Persons [N]
+MH NEW = Persons with Psychiatric Disorders
+ 
+MH OLD = Visually Impaired Persons [N]
+MH NEW = Persons with Visual Disabilities
+ 
+MH OLD = Obesity, Maternal [N]
+MH NEW = Pregnancy in Obesity
+ 
+MH OLD = Pregnant Women []
+MH NEW = Pregnant People
+
+MH OLD = Retraction of Publication [N]
+MH NEW = Retraction Notice
+ 
+MH OLD = Condoms, Female [N]
+MH NEW = Single-Use Internal Condom
+ 
+MH OLD = Tinea cruris []
+MH NEW = Tinea Cruris
+
+MH OLD = Trityl Compounds [P]
+MH NEW = Triphenylmethyl Compounds
+
+MH OLD = Mental Retardation, X-Linked [P]
+MH NEW = X-Linked Intellectual Disability
+ 
+Total replaced     =      32
+Total deleted      =       0
+Total without YE   =       0
+
