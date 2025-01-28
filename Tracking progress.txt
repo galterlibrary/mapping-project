@@ -44,8 +44,6 @@ O-R
 S-Z
 Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2023)
 
-
-
 2023 LCSH updates (generally held for NLM)
 January https://classweb.org/approved-subjects/2301.html - Christine DONE
 January Expedite https://classweb.org/approved-subjects/2301e.html - Christine DONE
@@ -63,3 +61,39 @@ September https://classweb.org/approved-subjects/2309.html -
 October https://classweb.org/approved-subjects/2310.html - 
 October 02 https://classweb.org/approved-subjects/2310a.html - 
 2023 Changed/Deleted LCSH - Sharon will review all months for these
+
+2024 MeSH (Generally held for Galter)
+New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2024)
+#-B
+C-D
+E-H
+I-N
+O-R
+S-Z
+Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2024)
+
+2024 LCSH (Generally held for NLM)
+January https://classweb.org/approved-subjects/2401.html
+January 2 https://classweb.org/approved-subjects/2401a.html
+Febraury https://classweb.org/approved-subjects/2402.html
+March https://classweb.org/approved-subjects/2403.html
+March 2 https://classweb.org/approved-subjects/2403a.html
+April https://classweb.org/approved-subjects/2404.html
+April 2 https://classweb.org/approved-subjects/2404a.html
+May https://classweb.org/approved-subjects/2405.html
+June https://classweb.org/approved-subjects/2406.html
+June 2 https://classweb.org/approved-subjects/2406a.html
+September https://classweb.org/approved-subjects/2407.html
+September 2 https://classweb.org/approved-subjects/2408.html
+September 3 https://classweb.org/approved-subjects/2409.html
+CHECK BACK FOR LATER MONTHS
+
+2025 MeSH (Generally held for Galter)
+New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2025)
+#-B
+C-D
+E-H
+I-N
+O-R
+S-Z
+Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2025)
