@@ -9,8 +9,8 @@ New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and
 C-D (Lindsey)
 E-H (Gretchen - done with some questions in Issue #9)
 I-N (Gretchen - done with some questions in Issue #10)
-O-R (Gretchen)
-S-Z (Gretchen)
+O-R (Gretchen - done with some questions in Issue #11)
+S-Z (Gretchen - done with some questions in Issue #11)
 Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2022) (Gretchen - done)
 
 2022 LCSH updates (generally held for NLM)
