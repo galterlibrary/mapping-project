@@ -42,7 +42,7 @@ E-H
 I-N
 O-R
 S-Z
-Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2023)
+Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2023) (Gretchen)
 
 2023 LCSH updates (generally held for NLM)
 January https://classweb.org/approved-subjects/2301.html - Christine DONE
