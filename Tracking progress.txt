@@ -36,13 +36,13 @@ December Expedite (https://classweb.org/approved-subjects/2212e.html) -  N/A (co
 
 2023 MeSH (generally held for Galter)
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2023)
-#-B
+#-B (Gretchen)
 C-D
 E-H
 I-N
 O-R
 S-Z
-Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2023) (Gretchen)
+Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2023) (Gretchen - done)
 
 2023 LCSH updates (generally held for NLM)
 January https://classweb.org/approved-subjects/2301.html - Christine DONE
