@@ -23,7 +23,7 @@ All of the records are in the MARC 21 Authority Format. In addition to the 750, 
 - 690 Field: In some records a local note
 - 930 Field: In some records a local responsibility note
 
-The mapping data is kept current by staff of the Galter Health Sciences Library and the National Library of Medicine. They review the annual MeSH additions, changes, and deletions, and the weekly LCSH additions, changes, and deletions, and update the mapping data as needed.
+The mapping data is kept current by staff of the Galter Health Sciences Library. They review the annual MeSH additions, changes, and deletions, and the weekly LCSH additions, changes, and deletions, and update the mapping data as needed. From 2022 through 2025, the National Library of Medicine collaborated on this review process.
 
 Although the authority records have been reviewed for accuracy, there may still be errors. Also other users of these records may disagree with some of the mapping decisions that have been made. We welcome any questions, corrections, comments and suggestions for improvement.
 
