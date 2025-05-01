@@ -53,14 +53,14 @@ March https://classweb.org/approved-subjects/2303.html - Kasia DONE
 April https://classweb.org/approved-subjects/2304.html - Liz DONE
 April 02 https://classweb.org/approved-subjects/2304a.html - Karen DONE
 May https://classweb.org/approved-subjects/2305.html - Phyllis DONE
-June https://classweb.org/approved-subjects/2306.html - 
-July https://classweb.org/approved-subjects/2307.html - 
-August https://classweb.org/approved-subjects/2308.html - 
-August 02 https://classweb.org/approved-subjects/2308a.html -
-September https://classweb.org/approved-subjects/2309.html -
-October https://classweb.org/approved-subjects/2310.html - 
-October 02 https://classweb.org/approved-subjects/2310a.html - 
-2023 Changed/Deleted LCSH - Sharon will review all months for these
+June https://classweb.org/approved-subjects/2306.html - NLM DONE
+July https://classweb.org/approved-subjects/2307.html - NLM DONE
+August https://classweb.org/approved-subjects/2308.html - NLM DONE
+August 02 https://classweb.org/approved-subjects/2308a.html - NLM DONE
+September https://classweb.org/approved-subjects/2309.html - NLM DONE
+October https://classweb.org/approved-subjects/2310.html - NLM DONE
+October 02 https://classweb.org/approved-subjects/2310a.html - NLM DONE
+2023 Changed/Deleted LCSH - Sharon will review all months for these - DONE
 
 2024 MeSH (Generally held for Galter)
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2024)
