@@ -36,8 +36,8 @@ December Expedite (https://classweb.org/approved-subjects/2212e.html) -  N/A (co
 
 2023 MeSH (generally held for Galter)
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2023)
-#-B (Gretchen)
-C-D
+#-B (Gretchen, ready for Alma mapping)
+C-D (Gretchen)
 E-H
 I-N
 O-R
