@@ -1,7 +1,7 @@
 2021
 New MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/meshnew2021.txt)
-#-D - Galter (Tony)
-U-Z - Galter (Violet)
+#-D - Galter (Need volunteer)
+U-Z - Galter (Need volunteer)
 
 2022 MeSH (generally held for Galter)
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2022)
