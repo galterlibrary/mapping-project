@@ -1,7 +1,7 @@
 2021
 New MeSH (https://nlmpubs.nlm.nih.gov/projects/mesh/2021/newterms/meshnew2021.txt)
 #-D - Galter (Mahonry)
-U-Z - Galter (Gretchen)
+U-Z - Galter (Gretchen - done with some questions in issues)
 
 2022 MeSH (generally held for Galter)
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2022)
@@ -38,7 +38,7 @@ December Expedite (https://classweb.org/approved-subjects/2212e.html) -  N/A (co
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2023)
 #-B (Gretchen - done)
 C-D (Gretchen - done - questions in issues tab)
-E-H
+E-H (Gretchen)
 I-N
 O-R
 S-Z
