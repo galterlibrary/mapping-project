@@ -86,7 +86,11 @@ June 2 https://classweb.org/approved-subjects/2406a.html
 September https://classweb.org/approved-subjects/2407.html
 September 2 https://classweb.org/approved-subjects/2408.html
 September 3 https://classweb.org/approved-subjects/2409.html
-CHECK BACK FOR LATER MONTHS
+October https://classweb.org/approved-subjects/2410a.html
+November https://classweb.org/approved-subjects/2411a.html
+November 2 https://classweb.org/approved-subjects/2411c.html
+December https://classweb.org/approved-subjects/2412a.html
+December 2 https://classweb.org/approved-subjects/2412c.html
 
 2025 MeSH (Generally held for Galter)
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2025)
@@ -97,3 +101,8 @@ I-N
 O-R
 S-Z
 Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2025)
+
+2025 LCSH
+January https://classweb.org/approved-subjects/2501c.html
+February https://classweb.org/approved-subjects/2502c.html
+March https://classweb.org/approved-subjects/2503c.html
