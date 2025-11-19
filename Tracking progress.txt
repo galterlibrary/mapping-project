@@ -38,7 +38,7 @@ December Expedite (https://classweb.org/approved-subjects/2212e.html) -  N/A (co
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2023)
 #-B (Gretchen - done)
 C-D (Gretchen - done - questions in issues tab)
-E-H (Gretchen - need to add to GitHub - questions in issue #14)
+E-H (Gretchen - done - questions in issue #14)
 I-N (Lindsey)
 O-R (Gretchen - in progress)
 S-Z
