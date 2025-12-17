@@ -41,7 +41,7 @@ C-D (Gretchen - done - questions in issues tab)
 E-H (Gretchen - done - questions in issue #14)
 I-N (Lindsey)
 O-R (Gretchen - in progress - questions in issue #15)
-S-Z
+S-Z (Mahonry)
 Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2023) (Gretchen - done)
 
 2023 LCSH updates (generally held for NLM)
