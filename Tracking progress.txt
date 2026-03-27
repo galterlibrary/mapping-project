@@ -18,19 +18,13 @@ Done with some questions in Issues (Galter)
 2023 LCSH updates
 Done (NLM)
 
-2024 and onwards has yet to be completed
+2024 and onwards have yet to be completed
 
-2024 MeSH (Generally held for Galter)
+2024 MeSH
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2024)
-#-B
-C-D
-E-H
-I-N
-O-R
-S-Z
 Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2024)
 
-2024 LCSH (Generally held for NLM)
+2024 LCSH
 January https://classweb.org/approved-subjects/2401.html
 January 2 https://classweb.org/approved-subjects/2401a.html
 Febraury https://classweb.org/approved-subjects/2402.html
@@ -50,17 +44,17 @@ November 2 https://classweb.org/approved-subjects/2411c.html
 December https://classweb.org/approved-subjects/2412a.html
 December 2 https://classweb.org/approved-subjects/2412c.html
 
-2025 MeSH (Generally held for Galter)
+2025 MeSH
 New MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/new2025)
-#-B
-C-D
-E-H
-I-N
-O-R
-S-Z
 Revised MeSH (https://github.com/galterlibrary/mapping-project/blob/master/new%20and%20revised%20MeSH%20files/replace2025)
 
 2025 LCSH
 January https://classweb.org/approved-subjects/2501c.html
 February https://classweb.org/approved-subjects/2502c.html
 March https://classweb.org/approved-subjects/2503c.html
+April https://classweb.org/approved-subjects/2504c.html
+May https://classweb.org/approved-subjects/2505c.html
+June https://classweb.org/approved-subjects/2506c.html
+July https://classweb.org/approved-subjects/2507c.html
+
+(current as of 3/27/2026)
