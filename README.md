@@ -1,7 +1,7 @@
 # LCSH/MeSH Mapping Project
 
 
-The LCSH/MeSH mapping project was begun at Northwestern University in 1990 and continues up to the present time. The goal of the project is to map corresponding LCSH and MeSH headings and enter the mapping data into 750, 780, and 788 linking entry fields in LCSH and MeSH authority records. We envision a number of possible uses for the mapping data such as:
+The LCSH/MeSH mapping project was begun at Northwestern University in 1990 and processed LCSH and MeSH heading changes through the end of 2023. As of April 2026, the project is on pause. The goal of the project is to map corresponding LCSH and MeSH headings and enter the mapping data into 750, 780, and 788 linking entry fields in LCSH and MeSH authority records. We envision a number of possible uses for the mapping data such as:
 
 - In OPACs the linking entry fields can be used to generate see also references between equivalent headings in the two systems.
 - The mapping data can be used to assist catalogers in assigning subject headings, when only headings from one of the systems are present in a bibliographic record.
